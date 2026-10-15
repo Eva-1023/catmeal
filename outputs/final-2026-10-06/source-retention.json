@@ -1,0 +1,16 @@
+{
+  "reason": "延续用户保留进食关键帧、删除占空间原视频的要求；仅清理本项目经完整分析和校验的新视频副本。",
+  "path": "data/videos/ScreenRecording_10-06-2026 22-42-58_1.mp4",
+  "size_bytes": 11556217603,
+  "sha256": "1e2a03a3a888b74954c9e9cb0ff86c0d47487b37768aedf25ed4e3b465729a23",
+  "preserved_report": "outputs/final-2026-10-06",
+  "evidence_images": 147,
+  "validation": "outputs/final-2026-10-06/validation.json",
+  "ipad_original_modified": false,
+  "disk_free_bytes_before": 305643450368,
+  "status": "deleted",
+  "deleted_at": "2026-10-07T01:38:19.126860+08:00",
+  "disk_free_bytes_after": 317207195648,
+  "observed_free_bytes_increase": 11563745280,
+  "space_note": "项目副本已删除；可用空间变化单独记录，可能受系统快照和其他写入影响。"
+}

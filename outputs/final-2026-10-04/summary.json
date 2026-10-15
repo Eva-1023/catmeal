@@ -1,0 +1,197 @@
+{
+  "counts": [
+    {
+      "period": "2026-10-04 至 2026-10-05",
+      "scope": "whole_recording",
+      "cat": "黄色短毛猫",
+      "feeding_bouts": 9,
+      "night_identity_inferred_bouts": 1,
+      "other_bowl_bouts": 4,
+      "fountain_bouts": 0,
+      "brief_food_contacts": 2
+    },
+    {
+      "period": "2026-10-04 至 2026-10-05",
+      "scope": "whole_recording",
+      "cat": "灰色长毛猫",
+      "feeding_bouts": 10,
+      "night_identity_inferred_bouts": 5,
+      "other_bowl_bouts": 4,
+      "fountain_bouts": 4,
+      "brief_food_contacts": 0
+    },
+    {
+      "period": "2026-10-04 至 2026-10-05",
+      "scope": "whole_recording",
+      "cat": "身份不确定",
+      "feeding_bouts": 0,
+      "night_identity_inferred_bouts": 0,
+      "other_bowl_bouts": 0,
+      "fountain_bouts": 0,
+      "brief_food_contacts": 0
+    }
+  ],
+  "daily_counts": [
+    {
+      "date": "2026-10-04",
+      "cat": "黄色短毛猫",
+      "feeding_bouts": 9,
+      "night_identity_inferred_bouts": 1,
+      "other_bowl_bouts": 4,
+      "fountain_bouts": 0,
+      "brief_food_contacts": 1
+    },
+    {
+      "date": "2026-10-04",
+      "cat": "灰色长毛猫",
+      "feeding_bouts": 9,
+      "night_identity_inferred_bouts": 4,
+      "other_bowl_bouts": 4,
+      "fountain_bouts": 4,
+      "brief_food_contacts": 0
+    },
+    {
+      "date": "2026-10-04",
+      "cat": "身份不确定",
+      "feeding_bouts": 0,
+      "night_identity_inferred_bouts": 0,
+      "other_bowl_bouts": 0,
+      "fountain_bouts": 0,
+      "brief_food_contacts": 0
+    },
+    {
+      "date": "2026-10-05",
+      "cat": "黄色短毛猫",
+      "feeding_bouts": 0,
+      "night_identity_inferred_bouts": 0,
+      "other_bowl_bouts": 0,
+      "fountain_bouts": 0,
+      "brief_food_contacts": 1
+    },
+    {
+      "date": "2026-10-05",
+      "cat": "灰色长毛猫",
+      "feeding_bouts": 1,
+      "night_identity_inferred_bouts": 1,
+      "other_bowl_bouts": 0,
+      "fountain_bouts": 0,
+      "brief_food_contacts": 0
+    },
+    {
+      "date": "2026-10-05",
+      "cat": "身份不确定",
+      "feeding_bouts": 0,
+      "night_identity_inferred_bouts": 0,
+      "other_bowl_bouts": 0,
+      "fountain_bouts": 0,
+      "brief_food_contacts": 0
+    }
+  ],
+  "coverage": {
+    "samples": 9883,
+    "valid_clocks": 9883,
+    "first": "2026-10-04T07:45:57+08:00",
+    "last": "2026-10-05T00:32:32+08:00",
+    "transitions": {
+      "repeat": 5494,
+      "advance": 4384,
+      "jump": 4
+    },
+    "step_histogram": {
+      "0.0": 5494,
+      "6.0": 1,
+      "10.0": 3,
+      "11.0": 24,
+      "12.0": 2005,
+      "13.0": 778,
+      "14.0": 1,
+      "15.0": 121,
+      "16.0": 1193,
+      "17.0": 185,
+      "18.0": 3,
+      "19.0": 1,
+      "20.0": 4,
+      "22.0": 4,
+      "23.0": 2,
+      "24.0": 33,
+      "25.0": 26,
+      "32.0": 2,
+      "33.0": 2
+    },
+    "anomalies": [
+      {
+        "first_id": 5715,
+        "last_id": 5716,
+        "kind": "jump",
+        "camera_seconds": 33.0
+      },
+      {
+        "first_id": 5749,
+        "last_id": 5750,
+        "kind": "jump",
+        "camera_seconds": 32.0
+      },
+      {
+        "first_id": 6961,
+        "last_id": 6962,
+        "kind": "jump",
+        "camera_seconds": 32.0
+      },
+      {
+        "first_id": 8806,
+        "last_id": 8807,
+        "kind": "jump",
+        "camera_seconds": 33.0
+      }
+    ]
+  },
+  "combined_clock_audit": {
+    "unique_camera_instants": 4420,
+    "first": 1791071157.0,
+    "last": 1791131552.0,
+    "camera_span_seconds": 60395.0,
+    "largest_step_seconds": 25.0,
+    "step_histogram": {
+      "6.0": 1,
+      "10.0": 3,
+      "11.0": 24,
+      "12.0": 2045,
+      "13.0": 792,
+      "14.0": 1,
+      "15.0": 121,
+      "16.0": 1199,
+      "17.0": 187,
+      "18.0": 3,
+      "19.0": 1,
+      "20.0": 4,
+      "22.0": 4,
+      "23.0": 2,
+      "24.0": 20,
+      "25.0": 12
+    },
+    "decoded_source_frames": 296455,
+    "supplementary_instants": 31
+  },
+  "merge_gap_sensitivity": {
+    "30": {
+      "orange_shorthair": 9,
+      "gray_longhair": 10
+    },
+    "60": {
+      "orange_shorthair": 9,
+      "gray_longhair": 10
+    },
+    "120": {
+      "orange_shorthair": 9,
+      "gray_longhair": 10
+    }
+  },
+  "method": {
+    "screen_sample_fps": 2,
+    "merge_gap_camera_seconds": 60,
+    "min_span_camera_seconds": 10,
+    "main_food_only": true,
+    "reviewed_by": "Codex visual examination",
+    "not_full_day": true
+  }
+}

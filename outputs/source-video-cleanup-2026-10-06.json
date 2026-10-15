@@ -1,0 +1,44 @@
+{
+  "reason": "User requested keeping feeding keyframes and deleting space-consuming original project videos. iPad originals are outside this cleanup scope.",
+  "records": [
+    {
+      "path": "data/videos/ScreenRecording_10-03-2026 22-12-10_1.mp4",
+      "size_bytes": 7417598910,
+      "allocated_bytes": 7417602048,
+      "sha256": "4b10aeb37356e4e5a3e40cdd8df262bb421dad410cae325cb818496b0146175d",
+      "preserved_report": "outputs/final-2026-10-03",
+      "evidence_images": 96,
+      "status": "deleted",
+      "deleted_at": "2026-10-06T22:40:10.611517+08:00"
+    },
+    {
+      "path": "data/videos/ScreenRecording_10-04-2026 23-41-46_1.mp4",
+      "size_bytes": 8019913786,
+      "allocated_bytes": 8019914752,
+      "sha256": "eae37949fe6fcd2b45569f794fffedaa5dbefcf01a53142d9e56e03423f1675d",
+      "preserved_report": "outputs/final-2026-10-04",
+      "evidence_images": 99,
+      "status": "deleted",
+      "deleted_at": "2026-10-06T22:40:10.612047+08:00"
+    },
+    {
+      "path": "data/videos/ScreenRecording_10-05-2026 22-22-06_1.mp4",
+      "size_bytes": 11873326295,
+      "allocated_bytes": 11882463232,
+      "sha256": "0b7d498152182f103d2478403f42220f15edee3818bb2726f1fd4e46b9b0d7d6",
+      "preserved_report": "outputs/final-2026-10-05",
+      "evidence_images": 183,
+      "status": "deleted",
+      "deleted_at": "2026-10-06T22:40:10.731323+08:00"
+    }
+  ],
+  "total_size_bytes": 27310838991,
+  "evidence_images_verified": 378,
+  "disk_free_bytes_before": 311831916544,
+  "status": "complete",
+  "disk_free_bytes_after": 311831711744,
+  "observed_free_bytes_increase": -204800,
+  "disk_free_bytes_rechecked": 311830638592,
+  "observed_free_bytes_increase_rechecked": -1277952,
+  "space_note": "Files are deleted; filesystem free-space change is separately recorded and can be affected by snapshots or other writes."
+}

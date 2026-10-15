@@ -1,0 +1,22 @@
+{
+  "reviewed_anomalies": [
+    {
+      "first_id": 95,
+      "last_id": 96,
+      "kind": "jump",
+      "note": "Visible loading/pause UI; camera watermark jumps 01:23:45 to 01:24:49."
+    },
+    {
+      "first_id": 98,
+      "last_id": 99,
+      "kind": "rewind",
+      "note": "Original watermark visibly changes 01:24:49 to 01:23:53. Examined original clock images and all feeder samples 90-104; bowl area empty. Preserve rewind and separate segments; no feeding overlap."
+    }
+  ],
+  "evidence": [
+    "clock/00095.png",
+    "clock/00096.png",
+    "clock/00099.png",
+    "boundary-clock-rewind/00090-00104.jpg"
+  ]
+}

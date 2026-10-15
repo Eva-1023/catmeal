@@ -1,0 +1,113 @@
+{
+  "source": "data/videos/ScreenRecording_10-06-2026 22-42-58_1.mp4",
+  "rotation": "90_counterclockwise",
+  "upright_dimensions": [
+    2360,
+    1640
+  ],
+  "screen_sample_fps": 2,
+  "rois": {
+    "presence_crop": [
+      700,
+      643,
+      1280,
+      1083
+    ],
+    "coordinate_note": "presence_crop is initial source crop; below are normalized crop-local coordinates. Actual source rectangle recorded per sample.",
+    "main_food": [
+      240,
+      145,
+      350,
+      210
+    ],
+    "front_round_bowl": [
+      140,
+      255,
+      240,
+      325
+    ],
+    "fountain_tray": [
+      135,
+      180,
+      240,
+      245
+    ],
+    "right_round_bowl": [
+      350,
+      175,
+      420,
+      235
+    ]
+  },
+  "model": "models/yolo11n-seg.pt",
+  "proposal_classes": [
+    "cat",
+    "dog"
+  ],
+  "proposal_min_confidence": 0.15,
+  "proposal_min_mask_pixels": 4500,
+  "minimum_camera_span_seconds": 10,
+  "merge_camera_gap_seconds": 60,
+  "identity_labels": [
+    "orange_shorthair",
+    "gray_longhair",
+    "unknown"
+  ],
+  "final_classification": "Codex visual review with explicit persisted annotation",
+  "reference_images": [
+    {
+      "path": "data/reference/day-reference.png",
+      "sha256": "3634d5dcc551251ab1ecd5a12c576b90a1d95fb0a8b4b1879453fe3212f4c220"
+    },
+    {
+      "path": "data/reference/night-reference.png",
+      "sha256": "ee9bfc54148bf39d7093c3d4d98a3e0f6d6cc021afd57e0ada6222729a391e62"
+    }
+  ],
+  "night_motion_audit": {
+    "pixel_difference": 8,
+    "min_fraction": 0.02,
+    "min_connected_area": 120,
+    "morphological_open": [
+      3,
+      3
+    ]
+  },
+  "date": "2026-10-06",
+  "roi_verification": "26 probes across beginning, every 300 screen seconds and end visually inspected; template registration minimum score 0.893 and no fallback. Actual crop saved per sample.",
+  "extraction": "single sequential decode, independent periodic PTS and all-frame clock-change sampling",
+  "clock_jump_policy": "Segment primary camera steps >30 seconds, rewinds and unreadable clocks; inspect anomalies before grouping.",
+  "tracking": {
+    "search_rect": [
+      600,
+      300,
+      1200,
+      1050
+    ],
+    "minimum_score": 0.72,
+    "templates": [
+      {
+        "path": "anchor-0.png",
+        "food_offset": [
+          90,
+          152
+        ]
+      },
+      {
+        "path": "anchor-1.png",
+        "food_offset": [
+          85,
+          150
+        ]
+      },
+      {
+        "path": "anchor-2.png",
+        "food_offset": [
+          85,
+          158
+        ]
+      }
+    ]
+  },
+  "coverage_note": "开头回放在01:24:49后退回01:23:53，已直接核对原水印并分段处理，前后食盆为空，未产生重复进食计数。黄昏曝光变化及夜间锚点遮挡告警均复核，食盆位置保持有效；录屏尾部有长时间停留，按水印去重。该片段不能补足10月6日00:11:45至01:16:48未覆盖的时段，也不能代表完整全天。"
+}

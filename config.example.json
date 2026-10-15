@@ -1,0 +1,16 @@
+{
+  "timezone": "Asia/Shanghai",
+  "model": "models/yolo11n-seg.pt",
+  "device": "cpu",
+  "sample_fps": 2.0,
+  "confidence": 0.3,
+  "image_size": 960,
+  "presence_roi": null,
+  "feeding_roi": null,
+  "roi_overlap": 0.05,
+  "min_feeding_seconds": 3.0,
+  "merge_gap_seconds": 60.0,
+  "max_observation_gap_seconds": 1.5,
+  "track_distance": 0.15,
+  "color_mode": "auto"
+}

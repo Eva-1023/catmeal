@@ -1,0 +1,217 @@
+{
+  "counts": [
+    {
+      "period": "2026-10-05 至 2026-10-06",
+      "scope": "whole_recording",
+      "cat": "黄色短毛猫",
+      "feeding_bouts": 10,
+      "night_identity_inferred_bouts": 4,
+      "other_bowl_bouts": 10,
+      "fountain_bouts": 7,
+      "brief_food_contacts": 2
+    },
+    {
+      "period": "2026-10-05 至 2026-10-06",
+      "scope": "whole_recording",
+      "cat": "灰色长毛猫",
+      "feeding_bouts": 15,
+      "night_identity_inferred_bouts": 6,
+      "other_bowl_bouts": 7,
+      "fountain_bouts": 4,
+      "brief_food_contacts": 2
+    },
+    {
+      "period": "2026-10-05 至 2026-10-06",
+      "scope": "whole_recording",
+      "cat": "身份不确定",
+      "feeding_bouts": 0,
+      "night_identity_inferred_bouts": 0,
+      "other_bowl_bouts": 0,
+      "fountain_bouts": 0,
+      "brief_food_contacts": 0
+    }
+  ],
+  "daily_counts": [
+    {
+      "date": "2026-10-05",
+      "cat": "黄色短毛猫",
+      "feeding_bouts": 10,
+      "night_identity_inferred_bouts": 4,
+      "other_bowl_bouts": 10,
+      "fountain_bouts": 7,
+      "brief_food_contacts": 2
+    },
+    {
+      "date": "2026-10-05",
+      "cat": "灰色长毛猫",
+      "feeding_bouts": 15,
+      "night_identity_inferred_bouts": 6,
+      "other_bowl_bouts": 7,
+      "fountain_bouts": 4,
+      "brief_food_contacts": 2
+    },
+    {
+      "date": "2026-10-05",
+      "cat": "身份不确定",
+      "feeding_bouts": 0,
+      "night_identity_inferred_bouts": 0,
+      "other_bowl_bouts": 0,
+      "fountain_bouts": 0,
+      "brief_food_contacts": 0
+    },
+    {
+      "date": "2026-10-06",
+      "cat": "黄色短毛猫",
+      "feeding_bouts": 0,
+      "night_identity_inferred_bouts": 0,
+      "other_bowl_bouts": 0,
+      "fountain_bouts": 0,
+      "brief_food_contacts": 0
+    },
+    {
+      "date": "2026-10-06",
+      "cat": "灰色长毛猫",
+      "feeding_bouts": 0,
+      "night_identity_inferred_bouts": 0,
+      "other_bowl_bouts": 0,
+      "fountain_bouts": 0,
+      "brief_food_contacts": 0
+    },
+    {
+      "date": "2026-10-06",
+      "cat": "身份不确定",
+      "feeding_bouts": 0,
+      "night_identity_inferred_bouts": 0,
+      "other_bowl_bouts": 0,
+      "fountain_bouts": 0,
+      "brief_food_contacts": 0
+    }
+  ],
+  "coverage": {
+    "samples": 13910,
+    "valid_clocks": 13910,
+    "first": "2026-10-05T00:49:50+08:00",
+    "last": "2026-10-06T00:11:45+08:00",
+    "transitions": {
+      "repeat": 7906,
+      "advance": 5996,
+      "jump": 7
+    },
+    "step_histogram": {
+      "0.0": 7906,
+      "10.0": 10,
+      "11.0": 63,
+      "12.0": 2410,
+      "13.0": 948,
+      "14.0": 16,
+      "15.0": 191,
+      "16.0": 1992,
+      "17.0": 273,
+      "18.0": 1,
+      "19.0": 1,
+      "20.0": 3,
+      "21.0": 1,
+      "22.0": 4,
+      "23.0": 2,
+      "24.0": 42,
+      "25.0": 39,
+      "32.0": 6,
+      "49.0": 1
+    },
+    "anomalies": [
+      {
+        "first_id": 1297,
+        "last_id": 1298,
+        "kind": "jump",
+        "camera_seconds": 32.0
+      },
+      {
+        "first_id": 1865,
+        "last_id": 1866,
+        "kind": "jump",
+        "camera_seconds": 32.0
+      },
+      {
+        "first_id": 2735,
+        "last_id": 2736,
+        "kind": "jump",
+        "camera_seconds": 32.0
+      },
+      {
+        "first_id": 3073,
+        "last_id": 3074,
+        "kind": "jump",
+        "camera_seconds": 49.0
+      },
+      {
+        "first_id": 13048,
+        "last_id": 13049,
+        "kind": "jump",
+        "camera_seconds": 32.0
+      },
+      {
+        "first_id": 13270,
+        "last_id": 13271,
+        "kind": "jump",
+        "camera_seconds": 32.0
+      },
+      {
+        "first_id": 13368,
+        "last_id": 13369,
+        "kind": "jump",
+        "camera_seconds": 32.0
+      }
+    ]
+  },
+  "combined_clock_audit": {
+    "unique_camera_instants": 6051,
+    "first": 1791132590.0,
+    "last": 1791216705.0,
+    "camera_span_seconds": 84115.0,
+    "largest_step_seconds": 25.0,
+    "step_histogram": {
+      "9.0": 1,
+      "10.0": 10,
+      "11.0": 63,
+      "12.0": 2467,
+      "13.0": 970,
+      "14.0": 16,
+      "15.0": 192,
+      "16.0": 2002,
+      "17.0": 274,
+      "18.0": 1,
+      "19.0": 1,
+      "20.0": 3,
+      "21.0": 1,
+      "22.0": 3,
+      "23.0": 2,
+      "24.0": 25,
+      "25.0": 19
+    },
+    "decoded_source_frames": 417215,
+    "supplementary_instants": 47
+  },
+  "merge_gap_sensitivity": {
+    "30": {
+      "orange_shorthair": 10,
+      "gray_longhair": 15
+    },
+    "60": {
+      "orange_shorthair": 10,
+      "gray_longhair": 15
+    },
+    "120": {
+      "orange_shorthair": 10,
+      "gray_longhair": 15
+    }
+  },
+  "coverage_note": "本段存在摄像头转动，已用三个喂食器模板跟踪食盆并逐段复核跟踪异常。01:00:49–01:01:03、17:04:34–17:04:46镜头离开食盆，分别至01:01:20、17:04:59恢复；23:21:17–23:21:30近景猫身遮住食盆，23:21:45恢复。白天人整理食盆期间也有短暂遮挡（如11:17:24），这些不可见时刻不外推计数。录像尾部有暂停画面，重复时间不增加覆盖时长。",
+  "method": {
+    "screen_sample_fps": 2,
+    "merge_gap_camera_seconds": 60,
+    "min_span_camera_seconds": 10,
+    "main_food_only": true,
+    "reviewed_by": "Codex visual examination",
+    "not_full_day": true
+  }
+}

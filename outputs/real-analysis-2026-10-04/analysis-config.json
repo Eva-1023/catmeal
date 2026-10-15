@@ -1,0 +1,79 @@
+{
+  "source": "data/videos/ScreenRecording_10-04-2026 23-41-46_1.mp4",
+  "rotation": "90_counterclockwise",
+  "upright_dimensions": [
+    2360,
+    1640
+  ],
+  "screen_sample_fps": 2,
+  "rois": {
+    "presence_crop": [
+      750,
+      750,
+      1330,
+      1190
+    ],
+    "main_food": [
+      990,
+      900,
+      1090,
+      965
+    ],
+    "front_round_bowl": [
+      900,
+      995,
+      980,
+      1065
+    ],
+    "fountain_tray": [
+      890,
+      925,
+      990,
+      975
+    ],
+    "right_round_bowl": [
+      1105,
+      915,
+      1165,
+      975
+    ]
+  },
+  "model": "models/yolo11n-seg.pt",
+  "proposal_classes": [
+    "cat",
+    "dog"
+  ],
+  "proposal_min_confidence": 0.15,
+  "proposal_min_mask_pixels": 4500,
+  "minimum_camera_span_seconds": 10,
+  "merge_camera_gap_seconds": 60,
+  "identity_labels": [
+    "orange_shorthair",
+    "gray_longhair",
+    "unknown"
+  ],
+  "final_classification": "Codex visual review with explicit persisted annotation",
+  "reference_images": [
+    {
+      "path": "data/reference/day-reference.png",
+      "sha256": "3634d5dcc551251ab1ecd5a12c576b90a1d95fb0a8b4b1879453fe3212f4c220"
+    },
+    {
+      "path": "data/reference/night-reference.png",
+      "sha256": "ee9bfc54148bf39d7093c3d4d98a3e0f6d6cc021afd57e0ada6222729a391e62"
+    }
+  ],
+  "night_motion_audit": {
+    "pixel_difference": 8,
+    "min_fraction": 0.02,
+    "min_connected_area": 120,
+    "morphological_open": [
+      3,
+      3
+    ]
+  },
+  "date": "2026-10-04",
+  "roi_verification": "Inspected beginning/middle/end upright full frames; shifted crop 120 px right and 20 px down from previous video to align actual feeder",
+  "extraction": "single sequential decode, independent periodic PTS and all-frame clock-change sampling",
+  "clock_jump_policy": "Same as prior recording: retain and segment primary jumps >30s, rewinds, unreadable clocks. All four >30s primary jumps are outside feeding contacts and filled by clock-change audit; combined max step 25s."
+}

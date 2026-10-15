@@ -1,0 +1,408 @@
+{
+  "reviewer": "Codex visual review of every sampled frame in proposal contact sheets",
+  "method": "Main-food contact requires head at visible kibble tray and repeated camera timestamps spanning at least 10 seconds. Other bowls and fountain are separate. Same-cat main-food gaps <=60 camera seconds merge.",
+  "reviewed_proposals": [
+    "P00028",
+    "P00092",
+    "P00176",
+    "P00195",
+    "P00291",
+    "P00509",
+    "P00573",
+    "P00595",
+    "P00790",
+    "P00823",
+    "P02138",
+    "P02645",
+    "P02807",
+    "P03168",
+    "P03224",
+    "P05032",
+    "P06309",
+    "P06430",
+    "P06475",
+    "P07279",
+    "P07506",
+    "P07725",
+    "P08177"
+  ],
+  "contacts": [
+    {
+      "cat_id": "gray_longhair",
+      "kind": "other_bowl",
+      "start_id": 28,
+      "end_id": 32,
+      "note": "前方圆碗"
+    },
+    {
+      "cat_id": "gray_longhair",
+      "kind": "main_food",
+      "start_id": 33,
+      "end_id": 46,
+      "note": "方形猫粮食盆；后半段与黄色猫同时进食"
+    },
+    {
+      "cat_id": "orange_shorthair",
+      "kind": "main_food",
+      "start_id": 37,
+      "end_id": 56,
+      "note": "方形猫粮食盆；与灰猫并排后继续单独进食"
+    },
+    {
+      "cat_id": "orange_shorthair",
+      "kind": "other_bowl",
+      "start_id": 57,
+      "end_id": 60,
+      "note": "前方圆碗"
+    },
+    {
+      "cat_id": "orange_shorthair",
+      "kind": "fountain",
+      "start_id": 61,
+      "end_id": 63,
+      "note": "左侧透明饮水装置"
+    },
+    {
+      "cat_id": "orange_shorthair",
+      "kind": "main_food",
+      "start_id": 92,
+      "end_id": 106,
+      "note": "先从右侧低头，再转到食盆前方"
+    },
+    {
+      "cat_id": "gray_longhair",
+      "kind": "other_bowl",
+      "start_id": 94,
+      "end_id": 106,
+      "note": "前方圆碗"
+    },
+    {
+      "cat_id": "gray_longhair",
+      "kind": "main_food",
+      "start_id": 109,
+      "end_id": 114,
+      "note": "方形猫粮食盆，短次进食"
+    },
+    {
+      "cat_id": "orange_shorthair",
+      "kind": "other_bowl",
+      "start_id": 118,
+      "end_id": 125,
+      "note": "前方圆碗"
+    },
+    {
+      "cat_id": "gray_longhair",
+      "kind": "other_bowl",
+      "start_id": 176,
+      "end_id": 184,
+      "note": "前方圆碗，随后抬头"
+    },
+    {
+      "cat_id": "orange_shorthair",
+      "kind": "main_food",
+      "start_id": 195,
+      "end_id": 199,
+      "note": "在食盆和紧邻前缘低头，随后抬头离开"
+    },
+    {
+      "cat_id": "orange_shorthair",
+      "kind": "fountain",
+      "start_id": 203,
+      "end_id": 209,
+      "note": "左侧透明饮水装置"
+    },
+    {
+      "cat_id": "orange_shorthair",
+      "kind": "other_bowl",
+      "start_id": 291,
+      "end_id": 296,
+      "note": "前方圆碗"
+    },
+    {
+      "cat_id": "gray_longhair",
+      "kind": "main_food",
+      "start_id": 509,
+      "end_id": 515,
+      "note": "从右侧接触方形猫粮食盆"
+    },
+    {
+      "cat_id": "orange_shorthair",
+      "kind": "main_food",
+      "start_id": 526,
+      "end_id": 531,
+      "note": "方形猫粮食盆"
+    },
+    {
+      "cat_id": "orange_shorthair",
+      "kind": "other_bowl",
+      "start_id": 573,
+      "end_id": 577,
+      "note": "前方圆碗，随后坐起"
+    },
+    {
+      "cat_id": "gray_longhair",
+      "kind": "other_bowl",
+      "start_id": 596,
+      "end_id": 600,
+      "note": "前方圆碗；与后段间隔49秒，按60秒规则合并"
+    },
+    {
+      "cat_id": "gray_longhair",
+      "kind": "other_bowl",
+      "start_id": 607,
+      "end_id": 614,
+      "note": "前方圆碗"
+    },
+    {
+      "cat_id": "gray_longhair",
+      "kind": "main_food",
+      "start_id": 790,
+      "end_id": 796,
+      "note": "方形猫粮食盆"
+    },
+    {
+      "cat_id": "gray_longhair",
+      "kind": "other_bowl",
+      "start_id": 2138,
+      "end_id": 2148,
+      "note": "前方圆碗"
+    },
+    {
+      "cat_id": "gray_longhair",
+      "kind": "main_food",
+      "start_id": 2645,
+      "end_id": 2655,
+      "note": "从右侧低头接触方形猫粮食盆，长毛与蓬松尾巴清晰"
+    },
+    {
+      "cat_id": "gray_longhair",
+      "kind": "main_food",
+      "start_id": 2807,
+      "end_id": 2810,
+      "note": "从右侧低头接触方形猫粮食盆，长毛与蓬松尾巴清晰"
+    },
+    {
+      "cat_id": "gray_longhair",
+      "kind": "main_food",
+      "start_id": 3168,
+      "end_id": 3171,
+      "note": "从右侧低头接触方形猫粮食盆"
+    },
+    {
+      "cat_id": "orange_shorthair",
+      "kind": "other_bowl",
+      "start_id": 3224,
+      "end_id": 3231,
+      "note": "前方圆碗"
+    },
+    {
+      "cat_id": "orange_shorthair",
+      "kind": "main_food",
+      "start_id": 3232,
+      "end_id": 3241,
+      "note": "从圆碗转到方形食盆，期间短暂抬头"
+    },
+    {
+      "cat_id": "gray_longhair",
+      "kind": "main_food",
+      "start_id": 5033,
+      "end_id": 5038,
+      "note": "灰色长毛猫，尾巴蓬松，正面低头接触方形猫粮食盆"
+    },
+    {
+      "cat_id": "gray_longhair",
+      "kind": "main_food",
+      "start_id": 6309,
+      "end_id": 6315,
+      "note": "夜视：长毛轮廓和蓬松尾部对应灰色长毛猫；不能从红外灰度推断毛色",
+      "identity_confidence": "medium"
+    },
+    {
+      "cat_id": "gray_longhair",
+      "kind": "main_food",
+      "start_id": 6430,
+      "end_id": 6437,
+      "note": "夜视：从右侧接触食盆后转到正面，蓬松尾巴和长毛对应灰猫；补看模型漏掉的末尾3帧",
+      "identity_confidence": "medium"
+    },
+    {
+      "cat_id": "orange_shorthair",
+      "kind": "main_food",
+      "start_id": 6478,
+      "end_id": 6479,
+      "note": "夜视：短毛、较细尾巴对应黄色猫；仅一个监控时刻看到食盆接触，作为短暂接触另列",
+      "identity_confidence": "medium"
+    },
+    {
+      "cat_id": "gray_longhair",
+      "kind": "main_food",
+      "start_id": 7279,
+      "end_id": 7283,
+      "note": "夜视：从右側接触食盆，长毛背线、蓬松尾巴对应灰猫，后退坐下停止",
+      "identity_confidence": "medium"
+    },
+    {
+      "cat_id": "orange_shorthair",
+      "kind": "main_food",
+      "start_id": 7506,
+      "end_id": 7507,
+      "note": "夜视：仅一个监控时刻接触食盆，随后离开；短毛和尾巴对应黄色猫",
+      "identity_confidence": "medium"
+    },
+    {
+      "cat_id": "gray_longhair",
+      "kind": "main_food",
+      "start_id": 7719,
+      "end_id": 7733,
+      "note": "夜视：长毛和蓬松尾巴对应灰猫；扩展复核候选前后漏检帧，期间短暂抬头",
+      "identity_confidence": "medium"
+    },
+    {
+      "cat_id": "gray_longhair",
+      "kind": "other_bowl",
+      "start_id": 8177,
+      "end_id": 8198,
+      "note": "夜视：灰色长毛猫在前方圆碗接触，期间抬头；食盆没有低头接触",
+      "identity_confidence": "medium"
+    }
+  ],
+  "excluded": [
+    {
+      "proposal": "P00823",
+      "reason": "灰猫路过、抬头或坐起，没有持续低头食盆接触"
+    }
+  ],
+  "reviewed_motion_starts": [
+    10,
+    5392,
+    8938
+  ],
+  "motion_decisions": [
+    {
+      "start_id": 10,
+      "end_id": 14,
+      "decision": "排除：人经过，非猫进食"
+    },
+    {
+      "start_id": 5392,
+      "end_id": 5399,
+      "decision": "排除：可见光切换为红外夜视，喂食区无猫"
+    },
+    {
+      "start_id": 8938,
+      "end_id": 8940,
+      "decision": "排除：回放暂停和屏幕变暗，无猫"
+    }
+  ],
+  "clock_audit_review": {
+    "reviewed_novel_ids": [
+      43,
+      102,
+      124,
+      143,
+      173,
+      179,
+      277,
+      279,
+      549,
+      572,
+      618,
+      656,
+      666,
+      680,
+      691,
+      724,
+      726,
+      825,
+      846,
+      932,
+      950,
+      973,
+      1063,
+      1077,
+      1093,
+      1113,
+      1407,
+      1415,
+      1441,
+      1476,
+      1484,
+      1498,
+      1571,
+      1629,
+      1659,
+      1694,
+      1745,
+      1748,
+      1759,
+      1807,
+      1828,
+      1832,
+      1911,
+      1954,
+      1956,
+      1958,
+      2016,
+      2052,
+      2074,
+      2078,
+      2099,
+      2110,
+      2183,
+      2213,
+      2237,
+      2243,
+      2262,
+      2280,
+      2299,
+      2318,
+      2329,
+      2333,
+      2352,
+      2354,
+      2374,
+      2386,
+      2389,
+      2404,
+      2457,
+      2481,
+      2530,
+      2556,
+      2611,
+      2621,
+      2624,
+      2631,
+      2635,
+      2673,
+      2715,
+      2739,
+      2765,
+      2804,
+      2810,
+      2873,
+      2875,
+      2881,
+      2938,
+      3012,
+      3023,
+      3048,
+      3181,
+      3279,
+      3331,
+      3403,
+      3471,
+      3490,
+      3520,
+      3708,
+      3723,
+      3888,
+      3941,
+      3950,
+      3978,
+      3982,
+      3988
+    ],
+    "decision": "已查看全部5页共105个新增监控时刻，无新进食事件；A00277/A00279属于已有09:07黄色猫事件，A01407灰猫仅在附近坐着，其他没有食盆行为。",
+    "status": "complete"
+  }
+}

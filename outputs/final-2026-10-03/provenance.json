@@ -1,0 +1,32 @@
+{
+  "visual-review.json": "b043619cfd4527584fa495de6047b447136a7c5e1baedb4286cbcd34e6c394fd",
+  "camera-timeline.json": "a779a29481bdda78b517d2876d0c7ced0a3f53c76f16f22a8495914904177e13",
+  "proposals.json": "cd0c231fc2686e7e4edaabec4941443f81c4b06d472932a3148840939a06209a",
+  "motion-audit.json": "c75f2825ff7c951a4aea166b7be68a40fd9fa2312d399cb2c44f305a80fd1252",
+  "clock-change-audit/comparison.json": "b1211e8a6d5f7c2ba827cd85590182a76620736b4fadfcd243e5a6f8094300ee",
+  "clock-change-audit/extraction.json": "9b345197ced1d89593aec49cad6782d390aa37d887e1c8f388636313f9e780cf",
+  "combined-clock-audit.json": "77227efa89d892bc2f23780e43b637eb94a85756982ab94edde8e8a879e20ccc",
+  "analysis-config.json": "f06ec2839c49e065e8220775c8432ce6c8f02b5f58cb253573cf0168465f2e68",
+  "analysis_code_sha256": {
+    "catmeal/screenrecording.py": "acebbd4ef6687fe9a34f9ab618748fb8f0894d4c621e97d4cfbbc2d8b9815fed",
+    "scripts/analyze_screenrecording.py": "bd0dc18d0c1314a761a510b90b97a65d72085772b1f3c788decab839676bf7a7",
+    "scripts/audit_all_clock_changes.py": "9e1fcc9bb61782ffd5031f3ade331bc2f76ae4081988f8da10bec050323269ea",
+    "scripts/audit_feeder_motion.py": "906c0e63816274c3fed1e762e50b19a5f542290d169872e97795196c4e8053e2",
+    "scripts/build_camera_timeline.py": "abd4b4c854e95970f467ddd347e211c609526a112c0bd052b0e8c4dbeafa2f79",
+    "scripts/build_real_proposals.py": "335deaa5755160ae0588944f8458367f739600e9dd01fe70afc612ee3a2f1f20",
+    "scripts/compare_clock_audit.py": "c83dcb3d68b5f795d75c422a7d52295c65d617fc4d3783269a65654677d8ac93",
+    "scripts/detect_feeder_samples.py": "ecbf92bbf408c54b19e17302a7bd9d8734ec2fdca0bfe38696f04fabfe2a5a93",
+    "scripts/finalize_real_analysis.py": "b1a3a22de0c9b950a157387adf741c0e184b6ddb32e231ab3fdeef15c29ade0b",
+    "scripts/import_ipad_video.py": "e0c035e307530120a9c659c4bd637b9e345a0da3f663734b67db51516ede8bd3",
+    "scripts/make_demo.py": "88b9dba992e7908de0513a79c62dc8289526bfde35ee7f9ac14dffab0efaf86d",
+    "scripts/make_review_sheets.py": "4b5145e09f41ecc777b76a2ab76a8318afa567c68cb741be9aeaad2ede66223e",
+    "scripts/plot_real_results.py": "c6b3da15d8400d2d5c812479c1fe2d99c42ff24e8091b3a5ad2897d22659156a",
+    "scripts/run_clock_ocr.py": "008d14d34ae21e4ec1f349a88c48730b845c551694e7f9d60959eb2888c73244",
+    "scripts/smoke_pipeline.py": "8742a520fe5518bd5241ac18ad9dc5d708334105758b04e8e89c55e51258cab3",
+    "scripts/verify_final_analysis.py": "15c5cd20cd65a92710c0a9816e512771f73ede1ab786f8a4f7dc94c20519e8eb",
+    "scripts/verify_ipad_video.py": "3398f4901310d6acf1d00dd426e072aa13f1c9e8972513ebe3f346380b5ba3c1",
+    "scripts/ocr_clock.swift": "0b1d6feac945093ab129c6838dd7e808d56c7b4c211351f4d61b2c6209e3fd2e"
+  },
+  "requirements_lock_sha256": "a349ffc77696ce22c6e9da1b75df5df489413bb1146f5bb2043d9a4a34f27c43",
+  "source_video_sha256": "4b10aeb37356e4e5a3e40cdd8df262bb421dad410cae325cb818496b0146175d"
+}

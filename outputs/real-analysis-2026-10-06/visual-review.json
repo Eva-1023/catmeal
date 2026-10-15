@@ -1,0 +1,750 @@
+{
+  "reviewer": "Codex visual examination",
+  "method": "Camera-watermark time grouping; square food bowl only; per-proposal posture review and night identity uncertainty retained.",
+  "reviewed_proposals": [
+    "P00218",
+    "P00467",
+    "P01397",
+    "P01808",
+    "P01871",
+    "P02346",
+    "P04119",
+    "P04180",
+    "P04380",
+    "P05081",
+    "P05111",
+    "P05145",
+    "P05195",
+    "P05348",
+    "P05357",
+    "P05452",
+    "P05620",
+    "P05665",
+    "P05706",
+    "P05732",
+    "P05881",
+    "P05966",
+    "P06053",
+    "P06075",
+    "P06187",
+    "P06254",
+    "P06294",
+    "P06317",
+    "P06632",
+    "P07025",
+    "P08247",
+    "P08425",
+    "P08460",
+    "P09414",
+    "P10426",
+    "P10524",
+    "P10403",
+    "P10871",
+    "P12487",
+    "P12497",
+    "P12507",
+    "P13161",
+    "P13576"
+  ],
+  "contacts": [
+    {
+      "cat_id": "orange_shorthair",
+      "kind": "main_food",
+      "start_id": 218,
+      "end_id": 225,
+      "note": "夜视短毛和细尾形态推定，三个监控时刻在方形猫粮盆低头",
+      "identity_confidence": "medium"
+    },
+    {
+      "cat_id": "gray_longhair",
+      "kind": "main_food",
+      "start_id": 465,
+      "end_id": 472,
+      "note": "夜视长毛与蓬松尾巴推定；补查检测前两帧恢复访问起点",
+      "identity_confidence": "medium"
+    },
+    {
+      "cat_id": "gray_longhair",
+      "kind": "other_bowl",
+      "start_id": 473,
+      "end_id": 483,
+      "note": "主食盆之后转到前方圆碗",
+      "identity_confidence": "medium"
+    },
+    {
+      "cat_id": "gray_longhair",
+      "kind": "other_bowl",
+      "start_id": 487,
+      "end_id": 495,
+      "note": "短暂抬头后继续接触圆碗，同一访问合并",
+      "identity_confidence": "medium"
+    },
+    {
+      "cat_id": "orange_shorthair",
+      "kind": "other_bowl",
+      "start_id": 1397,
+      "end_id": 1404,
+      "note": "夜视短毛细尾推定；前方圆碗低头接触",
+      "identity_confidence": "medium"
+    },
+    {
+      "cat_id": "orange_shorthair",
+      "kind": "presence_only",
+      "start_id": 1405,
+      "end_id": 1407,
+      "note": "圆碗之后坐起朝向主食盆，头部抬起，未见明确持续低头进食",
+      "identity_confidence": "medium"
+    },
+    {
+      "cat_id": "orange_shorthair",
+      "kind": "main_food",
+      "start_id": 1808,
+      "end_id": 1819,
+      "note": "夜视身份按短密毛、圆脸及圆柱形尾巴推定；补看离开食盆后的完整画面，保留中等置信度",
+      "identity_confidence": "medium"
+    },
+    {
+      "cat_id": "orange_shorthair",
+      "kind": "main_food",
+      "start_id": 1871,
+      "end_id": 1876,
+      "note": "夜视身份按短密毛、圆脸及圆柱形尾巴推定；补看离开食盆后的完整画面，保留中等置信度",
+      "identity_confidence": "medium"
+    },
+    {
+      "cat_id": "orange_shorthair",
+      "kind": "other_bowl",
+      "start_id": 2346,
+      "end_id": 2350,
+      "note": "夜视短毛圆脸与尾形推定，仅接触前方圆碗",
+      "identity_confidence": "medium"
+    },
+    {
+      "cat_id": "gray_longhair",
+      "kind": "other_bowl",
+      "start_id": 4180,
+      "end_id": 4182,
+      "note": "前方圆碗低头",
+      "identity_confidence": "high"
+    },
+    {
+      "cat_id": "gray_longhair",
+      "kind": "other_bowl",
+      "start_id": 4186,
+      "end_id": 4192,
+      "note": "抬头后继续圆碗接触",
+      "identity_confidence": "high"
+    },
+    {
+      "cat_id": "gray_longhair",
+      "kind": "other_bowl",
+      "start_id": 4198,
+      "end_id": 4202,
+      "note": "与黄猫同时在不同食器接触",
+      "identity_confidence": "high"
+    },
+    {
+      "cat_id": "gray_longhair",
+      "kind": "fountain",
+      "start_id": 4203,
+      "end_id": 4204,
+      "note": "由圆碗转向较高饮水装置接触",
+      "identity_confidence": "high"
+    },
+    {
+      "cat_id": "orange_shorthair",
+      "kind": "main_food",
+      "start_id": 4195,
+      "end_id": 4202,
+      "note": "黄猫在方形猫粮盆反复低头；灰猫同时在圆碗，分别计入不同区域",
+      "identity_confidence": "high"
+    },
+    {
+      "cat_id": "orange_shorthair",
+      "kind": "main_food",
+      "start_id": 4380,
+      "end_id": 4382,
+      "note": "依次接触方形猫粮盆、前方圆碗和饮水装置，按区域分别记录",
+      "identity_confidence": "high"
+    },
+    {
+      "cat_id": "orange_shorthair",
+      "kind": "other_bowl",
+      "start_id": 4383,
+      "end_id": 4386,
+      "note": "依次接触方形猫粮盆、前方圆碗和饮水装置，按区域分别记录",
+      "identity_confidence": "high"
+    },
+    {
+      "cat_id": "orange_shorthair",
+      "kind": "fountain",
+      "start_id": 4387,
+      "end_id": 4388,
+      "note": "依次接触方形猫粮盆、前方圆碗和饮水装置，按区域分别记录",
+      "identity_confidence": "high"
+    },
+    {
+      "cat_id": "gray_longhair",
+      "kind": "main_food",
+      "start_id": 5145,
+      "end_id": 5148,
+      "note": "灰猫低头进食",
+      "identity_confidence": "high"
+    },
+    {
+      "cat_id": "gray_longhair",
+      "kind": "main_food",
+      "start_id": 5151,
+      "end_id": 5152,
+      "note": "短暂低头看地面后回到食盆，按60秒规则合并",
+      "identity_confidence": "high"
+    },
+    {
+      "cat_id": "gray_longhair",
+      "kind": "other_bowl",
+      "start_id": 5195,
+      "end_id": 5200,
+      "note": "灰猫前方圆碗接触",
+      "identity_confidence": "high"
+    },
+    {
+      "cat_id": "gray_longhair",
+      "kind": "other_bowl",
+      "start_id": 5202,
+      "end_id": 5203,
+      "note": "抬头后继续圆碗接触",
+      "identity_confidence": "high"
+    },
+    {
+      "cat_id": "gray_longhair",
+      "kind": "fountain",
+      "start_id": 5201,
+      "end_id": 5201,
+      "note": "抬头接触饮水装置，另列",
+      "identity_confidence": "high"
+    },
+    {
+      "cat_id": "orange_shorthair",
+      "kind": "main_food",
+      "start_id": 5452,
+      "end_id": 5461,
+      "note": "白天身份清晰，在方形猫粮盆前持续低头",
+      "identity_confidence": "high"
+    },
+    {
+      "cat_id": "gray_longhair",
+      "kind": "main_food",
+      "start_id": 5620,
+      "end_id": 5628,
+      "note": "白天身份清晰，在方形猫粮盆前持续低头",
+      "identity_confidence": "high"
+    },
+    {
+      "cat_id": "orange_shorthair",
+      "kind": "main_food",
+      "start_id": 5714,
+      "end_id": 5720,
+      "note": "黄猫低头进食",
+      "identity_confidence": "high"
+    },
+    {
+      "cat_id": "orange_shorthair",
+      "kind": "other_bowl",
+      "start_id": 5881,
+      "end_id": 5885,
+      "note": "黄猫圆碗接触",
+      "identity_confidence": "high"
+    },
+    {
+      "cat_id": "orange_shorthair",
+      "kind": "fountain",
+      "start_id": 5886,
+      "end_id": 5886,
+      "note": "由圆碗抬头至饮水装置",
+      "identity_confidence": "high"
+    },
+    {
+      "cat_id": "orange_shorthair",
+      "kind": "main_food",
+      "start_id": 5966,
+      "end_id": 5976,
+      "note": "黄猫主食盆持续进食后离开",
+      "identity_confidence": "high"
+    },
+    {
+      "cat_id": "gray_longhair",
+      "kind": "fountain",
+      "start_id": 5983,
+      "end_id": 5983,
+      "note": "灰猫饮水装置接触",
+      "identity_confidence": "high"
+    },
+    {
+      "cat_id": "gray_longhair",
+      "kind": "other_bowl",
+      "start_id": 5984,
+      "end_id": 5987,
+      "note": "灰猫圆碗接触",
+      "identity_confidence": "high"
+    },
+    {
+      "cat_id": "gray_longhair",
+      "kind": "fountain",
+      "start_id": 5988,
+      "end_id": 5989,
+      "note": "圆碗与饮水装置之间切换",
+      "identity_confidence": "high"
+    },
+    {
+      "cat_id": "gray_longhair",
+      "kind": "other_bowl",
+      "start_id": 5990,
+      "end_id": 5992,
+      "note": "继续圆碗接触",
+      "identity_confidence": "high"
+    },
+    {
+      "cat_id": "gray_longhair",
+      "kind": "fountain",
+      "start_id": 5993,
+      "end_id": 5993,
+      "note": "离开圆碗前抬头至饮水装置",
+      "identity_confidence": "high"
+    },
+    {
+      "cat_id": "orange_shorthair",
+      "kind": "main_food",
+      "start_id": 6254,
+      "end_id": 6258,
+      "note": "黄猫进食；灰猫坐在右侧未接触食盆",
+      "identity_confidence": "high"
+    },
+    {
+      "cat_id": "gray_longhair",
+      "kind": "main_food",
+      "start_id": 6363,
+      "end_id": 6369,
+      "note": "长时间卧在食盆前之后起身进食，休息帧不计入接触",
+      "identity_confidence": "high"
+    },
+    {
+      "cat_id": "gray_longhair",
+      "kind": "main_food",
+      "start_id": 6492,
+      "end_id": 6503,
+      "note": "休息十余分钟后再次起身进食，为独立一次",
+      "identity_confidence": "high"
+    },
+    {
+      "cat_id": "orange_shorthair",
+      "kind": "other_bowl",
+      "start_id": 6474,
+      "end_id": 6480,
+      "note": "灰猫休息时黄猫仅接触圆碗",
+      "identity_confidence": "high"
+    },
+    {
+      "cat_id": "orange_shorthair",
+      "kind": "fountain",
+      "start_id": 6481,
+      "end_id": 6481,
+      "note": "圆碗后抬头接触饮水装置",
+      "identity_confidence": "high"
+    },
+    {
+      "cat_id": "gray_longhair",
+      "kind": "presence_only",
+      "start_id": 6317,
+      "end_id": 6362,
+      "note": "灰猫趴卧在食盆前休息，不作为进食",
+      "identity_confidence": "high"
+    },
+    {
+      "cat_id": "gray_longhair",
+      "kind": "presence_only",
+      "start_id": 6373,
+      "end_id": 6491,
+      "note": "灰猫坐卧休息；黄猫圆碗接触另外记录",
+      "identity_confidence": "high"
+    },
+    {
+      "cat_id": "gray_longhair",
+      "kind": "main_food",
+      "start_id": 7025,
+      "end_id": 7033,
+      "note": "灰猫主食盆低头进食",
+      "identity_confidence": "high"
+    },
+    {
+      "cat_id": "gray_longhair",
+      "kind": "main_food",
+      "start_id": 7035,
+      "end_id": 7041,
+      "note": "短暂抬头后继续，按一次合并",
+      "identity_confidence": "high"
+    },
+    {
+      "cat_id": "gray_longhair",
+      "kind": "other_bowl",
+      "start_id": 7045,
+      "end_id": 7047,
+      "note": "进食后转向前方圆碗",
+      "identity_confidence": "high"
+    },
+    {
+      "cat_id": "gray_longhair",
+      "kind": "other_bowl",
+      "start_id": 7051,
+      "end_id": 7053,
+      "note": "短暂抬头后继续圆碗接触",
+      "identity_confidence": "high"
+    },
+    {
+      "cat_id": "gray_longhair",
+      "kind": "fountain",
+      "start_id": 7054,
+      "end_id": 7055,
+      "note": "抬头至饮水装置",
+      "identity_confidence": "high"
+    },
+    {
+      "cat_id": "gray_longhair",
+      "kind": "main_food",
+      "start_id": 8247,
+      "end_id": 8256,
+      "identity_confidence": "high",
+      "note": "方形猫粮食盆低头姿态，经逐帧复核；短暂抬头按60秒规则合并"
+    },
+    {
+      "cat_id": "gray_longhair",
+      "kind": "main_food",
+      "start_id": 8258,
+      "end_id": 8259,
+      "identity_confidence": "high",
+      "note": "方形猫粮食盆低头姿态，经逐帧复核；短暂抬头按60秒规则合并"
+    },
+    {
+      "cat_id": "orange_shorthair",
+      "kind": "main_food",
+      "start_id": 8425,
+      "end_id": 8426,
+      "identity_confidence": "high",
+      "note": "方形猫粮食盆低头姿态，经逐帧复核；短暂抬头按60秒规则合并"
+    },
+    {
+      "cat_id": "orange_shorthair",
+      "kind": "main_food",
+      "start_id": 8430,
+      "end_id": 8431,
+      "identity_confidence": "high",
+      "note": "方形猫粮食盆低头姿态，经逐帧复核；短暂抬头按60秒规则合并"
+    },
+    {
+      "cat_id": "orange_shorthair",
+      "kind": "main_food",
+      "start_id": 8460,
+      "end_id": 8463,
+      "identity_confidence": "high",
+      "note": "方形猫粮食盆低头姿态，经逐帧复核；短暂抬头按60秒规则合并"
+    },
+    {
+      "cat_id": "orange_shorthair",
+      "kind": "main_food",
+      "start_id": 9414,
+      "end_id": 9433,
+      "identity_confidence": "high",
+      "note": "方形猫粮食盆低头姿态，经逐帧复核；短暂抬头按60秒规则合并"
+    },
+    {
+      "cat_id": "gray_longhair",
+      "kind": "other_bowl",
+      "start_id": 10426,
+      "end_id": 10431,
+      "identity_confidence": "medium",
+      "note": "夜视身份按毛长、体型与尾形推定；按接触食器分别记录"
+    },
+    {
+      "cat_id": "gray_longhair",
+      "kind": "fountain",
+      "start_id": 10432,
+      "end_id": 10434,
+      "identity_confidence": "medium",
+      "note": "夜视身份按毛长、体型与尾形推定；按接触食器分别记录"
+    },
+    {
+      "cat_id": "gray_longhair",
+      "kind": "other_bowl",
+      "start_id": 10435,
+      "end_id": 10436,
+      "identity_confidence": "medium",
+      "note": "夜视身份按毛长、体型与尾形推定；按接触食器分别记录"
+    },
+    {
+      "cat_id": "orange_shorthair",
+      "kind": "main_food",
+      "start_id": 10524,
+      "end_id": 10526,
+      "identity_confidence": "medium",
+      "note": "夜视身份按毛长、体型与尾形推定；按接触食器分别记录"
+    },
+    {
+      "cat_id": "orange_shorthair",
+      "kind": "main_food",
+      "start_id": 10529,
+      "end_id": 10531,
+      "identity_confidence": "medium",
+      "note": "夜视身份按毛长、体型与尾形推定；按接触食器分别记录"
+    },
+    {
+      "cat_id": "orange_shorthair",
+      "kind": "other_bowl",
+      "start_id": 10532,
+      "end_id": 10537,
+      "identity_confidence": "medium",
+      "note": "夜视身份按毛长、体型与尾形推定；按接触食器分别记录"
+    },
+    {
+      "cat_id": "gray_longhair",
+      "kind": "main_food",
+      "start_id": 10403,
+      "end_id": 10411,
+      "note": "夜视长毛蓬松尾形推定；补查模型漏检的后半段，10412抬头随后离开",
+      "identity_confidence": "medium"
+    },
+    {
+      "cat_id": "gray_longhair",
+      "kind": "main_food",
+      "start_id": 10857,
+      "end_id": 10864,
+      "note": "夜视长毛尾形推定；补查模型前漏检段，10856空、10857到盆低头",
+      "identity_confidence": "medium"
+    },
+    {
+      "cat_id": "gray_longhair",
+      "kind": "main_food",
+      "start_id": 10869,
+      "end_id": 10880,
+      "note": "短暂抬头后继续进食，60秒合并；10881离开",
+      "identity_confidence": "medium"
+    },
+    {
+      "cat_id": "gray_longhair",
+      "kind": "other_bowl",
+      "start_id": 12486,
+      "end_id": 12496,
+      "note": "夜视长毛蓬松尾形推定；前方圆碗低头，随后抬头至饮水装置",
+      "identity_confidence": "medium"
+    },
+    {
+      "cat_id": "gray_longhair",
+      "kind": "fountain",
+      "start_id": 12497,
+      "end_id": 12513,
+      "note": "夜视长毛推定；抬头接触饮水装置，12514转头、12519离开",
+      "identity_confidence": "medium"
+    },
+    {
+      "cat_id": "orange_shorthair",
+      "kind": "main_food",
+      "start_id": 13164,
+      "end_id": 13166,
+      "note": "短毛圆脸细尾推定；仅同一个监控时刻可见主食盆低头，单列不计正式次数",
+      "identity_confidence": "medium"
+    },
+    {
+      "cat_id": "orange_shorthair",
+      "kind": "other_bowl",
+      "start_id": 13576,
+      "end_id": 13587,
+      "note": "短毛圆脸圆柱尾推定；午夜后仅在前方圆碗低头，13588离开，未接触方形猫粮盆",
+      "identity_confidence": "medium"
+    }
+  ],
+  "excluded_proposals": [
+    {
+      "id": "P04119",
+      "reason": "灰猫经过食盆前方，无食盆接触"
+    },
+    {
+      "id": "P05081",
+      "reason": "灰猫站立或路过，未见主食盆低头接触"
+    },
+    {
+      "id": "P05111",
+      "reason": "灰猫站立或路过，未见主食盆低头接触"
+    },
+    {
+      "id": "P05348",
+      "reason": "黄猫在近景镜头前，食盆区域未发生接触"
+    },
+    {
+      "id": "P05357",
+      "reason": "黄猫在近景镜头前，食盆区域未发生接触"
+    },
+    {
+      "id": "P05665",
+      "reason": "灰猫在装置左侧站立，未见明确盆内接触"
+    },
+    {
+      "id": "P05732",
+      "reason": "黄猫路过"
+    },
+    {
+      "id": "P06053",
+      "reason": "灰猫路过"
+    },
+    {
+      "id": "P06075",
+      "reason": "黄猫近景头部，无食盆接触"
+    },
+    {
+      "id": "P06187",
+      "reason": "灰猫在椅旁坐下，与食盆无接触"
+    },
+    {
+      "id": "P06294",
+      "reason": "黄猫从食盆前经过，没有低头接触"
+    },
+    {
+      "id": "P06632",
+      "reason": "灰猫离开休息位置，从食盆前经过"
+    }
+  ],
+  "reviewed_motion_starts": [
+    246,
+    2730,
+    9400,
+    9427,
+    13630
+  ],
+  "supplementary_contacts": [
+    {
+      "audit_sample_id": 4039,
+      "cat_id": "orange_shorthair",
+      "kind": "main_food",
+      "identity_confidence": "high",
+      "note": "水印变化补采恢复16:09:07进食起点，与主采样同一事件合并"
+    }
+  ],
+  "clock_audit_review": {
+    "status": "complete",
+    "reviewed_novel_ids": [
+      1138,
+      1167,
+      1246,
+      1295,
+      1296,
+      1370,
+      1457,
+      1528,
+      1663,
+      1692,
+      1702,
+      1705,
+      1714,
+      1722,
+      1768,
+      1829,
+      1842,
+      1970,
+      2032,
+      2089,
+      2091,
+      2115,
+      2221,
+      2271,
+      2282,
+      2287,
+      2301,
+      2420,
+      2457,
+      2458,
+      2515,
+      2601,
+      2670,
+      2816,
+      2929,
+      2954,
+      3001,
+      3076,
+      3109,
+      3124,
+      3317,
+      3441,
+      3486,
+      3511,
+      3548,
+      3679,
+      3829,
+      3991,
+      3993,
+      3996,
+      4028,
+      4031,
+      4039,
+      4057,
+      4064,
+      4103,
+      4106,
+      4120,
+      4150,
+      4188,
+      4195,
+      4229,
+      4362,
+      4365,
+      4395
+    ],
+    "notes": "65个新增监控时刻全部复核；4039补充16:09:07黄猫主食盆访问起点，其他为食盆空、路过或休息。"
+  },
+  "tracking_review": {
+    "primary": {
+      "status": "complete",
+      "reviewed_flagged_ids": [
+        9467,
+        9468,
+        9469,
+        9470,
+        9471,
+        9472,
+        9473,
+        9474,
+        9475,
+        9476,
+        9477,
+        9478,
+        9479,
+        9480,
+        10412,
+        10413,
+        10624,
+        10625,
+        10626
+      ],
+      "note": "逐张查看全部告警及前后文；黄昏噪点、抬头遮挡锚点、近镜头曝光导致低分，方形食盆仍在正确位置，无裁切丢失。"
+    },
+    "supplemental": {
+      "status": "complete",
+      "reviewed_flagged_ids": [
+        4541,
+        4542,
+        4875,
+        4951
+      ],
+      "note": "逐张查看全部告警及前后文；黄昏噪点、抬头遮挡锚点、近镜头曝光导致低分，方形食盆仍在正确位置，无裁切丢失。"
+    }
+  },
+  "motion_review_notes": {
+    "246": "曝光改变，食盆空",
+    "2730": "日夜切换，2728至2802全部复核食盆空",
+    "9400": "曝光变化，9408开始黄猫进入",
+    "9427": "补齐黄猫主食盆至9433；9434以后食盆空",
+    "13630": "暂停按钮与暗化，食盆空"
+  },
+  "boundary_review_notes": [
+    "P09414通过9410至9469全段补查恢复至9433",
+    "P10403通过10392至10425全段补查恢复至10411",
+    "P10871通过10838至10887全段补查恢复开始10857",
+    "P12487/12497/12507通过12480至12519全段复核为同一次圆碗及饮水装置访问"
+  ]
+}

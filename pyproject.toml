@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "catmeal"
+version = "0.1.0"
+description = "Local camera video to auditable cat feeder visit events"
+requires-python = ">=3.11,<3.14"
+dependencies = ["ultralytics>=8.3,<9", "av>=14,<17", "scipy>=1.10", "opencv-python==4.11.0.86; sys_platform == 'darwin'", "tzdata; sys_platform == 'win32'"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8,<10"]
+
+[project.scripts]
+catmeal = "catmeal.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["catmeal*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

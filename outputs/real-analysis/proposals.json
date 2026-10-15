@@ -1,0 +1,186 @@
+[
+  {
+    "id": "P00028",
+    "start_id": 28,
+    "end_id": 65,
+    "positive_samples": 38,
+    "start_clock": "NI 2026/10/03 08:14:10",
+    "end_clock": "NI 2026/10/03 08:18:15"
+  },
+  {
+    "id": "P00092",
+    "start_id": 92,
+    "end_id": 129,
+    "positive_samples": 35,
+    "start_clock": "nI 2026/10/03 08:21:08",
+    "end_clock": "NI 2026/10/03 08:24:50"
+  },
+  {
+    "id": "P00176",
+    "start_id": 176,
+    "end_id": 186,
+    "positive_samples": 11,
+    "start_clock": "nI 2026/10/03 08:30:08",
+    "end_clock": "nI 2026/10/03 08:30:58"
+  },
+  {
+    "id": "P00195",
+    "start_id": 195,
+    "end_id": 209,
+    "positive_samples": 15,
+    "start_clock": "NI 2026/10/03 08:32:11",
+    "end_clock": "nI 2026/10/03 08:33:38"
+  },
+  {
+    "id": "P00291",
+    "start_id": 291,
+    "end_id": 299,
+    "positive_samples": 9,
+    "start_clock": "NI 2026/10/03 08:42:03",
+    "end_clock": "nI 2026/10/03 08:42:52"
+  },
+  {
+    "id": "P00509",
+    "start_id": 509,
+    "end_id": 534,
+    "positive_samples": 22,
+    "start_clock": "nI 2026/10/03 09:05:14",
+    "end_clock": "NI 2026/10/03 09:08:05"
+  },
+  {
+    "id": "P00573",
+    "start_id": 573,
+    "end_id": 584,
+    "positive_samples": 12,
+    "start_clock": "nI 2026/10/03 09:12:35",
+    "end_clock": "NI 2026/10/03 09:13:36"
+  },
+  {
+    "id": "P00595",
+    "start_id": 595,
+    "end_id": 615,
+    "positive_samples": 17,
+    "start_clock": "nI 2026/10/03 09:14:50",
+    "end_clock": "nI 2026/10/03 09:16:53"
+  },
+  {
+    "id": "P00790",
+    "start_id": 790,
+    "end_id": 796,
+    "positive_samples": 7,
+    "start_clock": "nI 2026/10/03 09:36:52",
+    "end_clock": "nI 2026/10/03 09:37:28"
+  },
+  {
+    "id": "P00823",
+    "start_id": 823,
+    "end_id": 825,
+    "positive_samples": 3,
+    "start_clock": "NI 2026/10/03 09:40:32",
+    "end_clock": "NI 2026/10/03 09:40:44"
+  },
+  {
+    "id": "P02138",
+    "start_id": 2138,
+    "end_id": 2152,
+    "positive_samples": 15,
+    "start_clock": "nI 2026/10/03 12:03:25",
+    "end_clock": "NI 2026/10/03 12:04:51"
+  },
+  {
+    "id": "P02645",
+    "start_id": 2645,
+    "end_id": 2660,
+    "positive_samples": 16,
+    "start_clock": "nI 2026/10/03 12:57:31",
+    "end_clock": "nI 2026/10/03 12:58:58"
+  },
+  {
+    "id": "P02807",
+    "start_id": 2807,
+    "end_id": 2810,
+    "positive_samples": 4,
+    "start_clock": "•I 2026/10/03 13:15:30",
+    "end_clock": "NI 2026/10/03 13:15:43"
+  },
+  {
+    "id": "P03168",
+    "start_id": 3168,
+    "end_id": 3171,
+    "positive_samples": 4,
+    "start_clock": "nI 2026/10/03 13:53:37",
+    "end_clock": "NI 2026/10/03 13:54:01"
+  },
+  {
+    "id": "P03224",
+    "start_id": 3224,
+    "end_id": 3241,
+    "positive_samples": 18,
+    "start_clock": "NI 2026/10/03 14:00:19",
+    "end_clock": "NI 2026/10/03 14:01:58"
+  },
+  {
+    "id": "P05032",
+    "start_id": 5032,
+    "end_id": 5040,
+    "positive_samples": 9,
+    "start_clock": "NI 2026/10/03 17:19:44",
+    "end_clock": "NI 2026/10/03 17:20:33"
+  },
+  {
+    "id": "P06309",
+    "start_id": 6309,
+    "end_id": 6315,
+    "positive_samples": 4,
+    "start_clock": "NI 2026/10/03 19:11:09",
+    "end_clock": "NI 2026/10/03 19:11:42"
+  },
+  {
+    "id": "P06430",
+    "start_id": 6430,
+    "end_id": 6434,
+    "positive_samples": 5,
+    "start_clock": "NI 2026/10/03 19:22:39",
+    "end_clock": "NI 2026/10/03 19:22:55"
+  },
+  {
+    "id": "P06475",
+    "start_id": 6475,
+    "end_id": 6479,
+    "positive_samples": 5,
+    "start_clock": "NI 2026/10/03 19:26:55",
+    "end_clock": "NI 2026/10/03 19:27:12"
+  },
+  {
+    "id": "P07279",
+    "start_id": 7279,
+    "end_id": 7289,
+    "positive_samples": 7,
+    "start_clock": "NI 2026/10/03 20:43:22",
+    "end_clock": "NI 2026/10/03 20:44:10"
+  },
+  {
+    "id": "P07506",
+    "start_id": 7506,
+    "end_id": 7507,
+    "positive_samples": 2,
+    "start_clock": "NI 2026/10/03 21:04:45",
+    "end_clock": "NI 2026/10/03 21:04:45"
+  },
+  {
+    "id": "P07725",
+    "start_id": 7725,
+    "end_id": 7727,
+    "positive_samples": 3,
+    "start_clock": "NI 2026/10/03 21:25:36",
+    "end_clock": "NI 2026/10/03 21:25:36"
+  },
+  {
+    "id": "P08177",
+    "start_id": 8177,
+    "end_id": 8206,
+    "positive_samples": 24,
+    "start_clock": "NI 2026/10/03 22:09:17",
+    "end_clock": "NI 2026/10/03 22:11:57"
+  }
+]

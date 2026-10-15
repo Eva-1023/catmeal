@@ -1,0 +1,69 @@
+{
+  "source": "data/videos/ScreenRecording_10-03-2026 22-12-10_1.mp4",
+  "rotation": "90_counterclockwise",
+  "upright_dimensions": [
+    2360,
+    1640
+  ],
+  "screen_sample_fps": 2,
+  "rois": {
+    "presence_crop": [
+      630,
+      730,
+      1210,
+      1170
+    ],
+    "main_food": [
+      870,
+      875,
+      970,
+      935
+    ],
+    "front_round_bowl": [
+      780,
+      975,
+      865,
+      1040
+    ],
+    "fountain_tray": [
+      775,
+      895,
+      865,
+      955
+    ]
+  },
+  "model": "models/yolo11n-seg.pt",
+  "proposal_classes": [
+    "cat",
+    "dog"
+  ],
+  "proposal_min_confidence": 0.15,
+  "proposal_min_mask_pixels": 4500,
+  "minimum_camera_span_seconds": 10,
+  "merge_camera_gap_seconds": 60,
+  "identity_labels": [
+    "orange_shorthair",
+    "gray_longhair",
+    "unknown"
+  ],
+  "final_classification": "Codex visual review with explicit persisted annotation",
+  "reference_images": [
+    {
+      "path": "data/reference/day-reference.png",
+      "sha256": "3634d5dcc551251ab1ecd5a12c576b90a1d95fb0a8b4b1879453fe3212f4c220"
+    },
+    {
+      "path": "data/reference/night-reference.png",
+      "sha256": "ee9bfc54148bf39d7093c3d4d98a3e0f6d6cc021afd57e0ada6222729a391e62"
+    }
+  ],
+  "night_motion_audit": {
+    "pixel_difference": 8,
+    "min_fraction": 0.02,
+    "min_connected_area": 120,
+    "morphological_open": [
+      3,
+      3
+    ]
+  }
+}

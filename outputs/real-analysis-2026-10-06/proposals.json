@@ -1,0 +1,346 @@
+[
+  {
+    "id": "P00218",
+    "start_id": 218,
+    "end_id": 225,
+    "positive_samples": 8,
+    "start_clock": "NI 2026/10/06 01:35:06",
+    "end_clock": "NI 2026/10/06 01:35:39"
+  },
+  {
+    "id": "P00467",
+    "start_id": 467,
+    "end_id": 500,
+    "positive_samples": 25,
+    "start_clock": "NI 2026/10/06 01:58:54",
+    "end_clock": "NI 2026/10/06 02:01:50"
+  },
+  {
+    "id": "P01397",
+    "start_id": 1397,
+    "end_id": 1407,
+    "positive_samples": 11,
+    "start_clock": "NI 2026/10/06 03:27:04",
+    "end_clock": "NI 2026/10/06 03:27:52"
+  },
+  {
+    "id": "P01808",
+    "start_id": 1808,
+    "end_id": 1819,
+    "positive_samples": 9,
+    "start_clock": "NI 2026/10/06 04:06:05",
+    "end_clock": "NI 2026/10/06 04:06:53"
+  },
+  {
+    "id": "P01871",
+    "start_id": 1871,
+    "end_id": 1876,
+    "positive_samples": 6,
+    "start_clock": "NI 2026/10/06 04:11:58",
+    "end_clock": "NI 2026/10/06 04:12:14"
+  },
+  {
+    "id": "P02346",
+    "start_id": 2346,
+    "end_id": 2353,
+    "positive_samples": 8,
+    "start_clock": "NI 2026/10/06 04:56:52",
+    "end_clock": "NI 2026/10/06 04:57:25"
+  },
+  {
+    "id": "P04119",
+    "start_id": 4119,
+    "end_id": 4121,
+    "positive_samples": 3,
+    "start_clock": "nI 2026/10/06 07:53:16",
+    "end_clock": "nI 2026/10/06 07:53:28"
+  },
+  {
+    "id": "P04180",
+    "start_id": 4180,
+    "end_id": 4207,
+    "positive_samples": 28,
+    "start_clock": "NI 2026/10/06 07:59:26",
+    "end_clock": "NI 2026/10/06 08:02:07"
+  },
+  {
+    "id": "P04380",
+    "start_id": 4380,
+    "end_id": 4388,
+    "positive_samples": 9,
+    "start_clock": "NI 2026/10/06 08:21:40",
+    "end_clock": "NI 2026/10/06 08:22:29"
+  },
+  {
+    "id": "P05081",
+    "start_id": 5081,
+    "end_id": 5082,
+    "positive_samples": 2,
+    "start_clock": "nI 2026/10/06 09:35:08",
+    "end_clock": "nI 2026/10/06 09:35:08"
+  },
+  {
+    "id": "P05111",
+    "start_id": 5111,
+    "end_id": 5111,
+    "positive_samples": 1,
+    "start_clock": "nI 2026/10/06 09:38:35",
+    "end_clock": "nI 2026/10/06 09:38:35"
+  },
+  {
+    "id": "P05145",
+    "start_id": 5145,
+    "end_id": 5154,
+    "positive_samples": 10,
+    "start_clock": "NI 2026/10/06 09:42:26",
+    "end_clock": "NI 2026/10/06 09:43:27"
+  },
+  {
+    "id": "P05195",
+    "start_id": 5195,
+    "end_id": 5204,
+    "positive_samples": 10,
+    "start_clock": "NI 2026/10/06 09:48:20",
+    "end_clock": "nI 2026/10/06 09:49:21"
+  },
+  {
+    "id": "P05348",
+    "start_id": 5348,
+    "end_id": 5348,
+    "positive_samples": 1,
+    "start_clock": "NI 2026/10/06 10:06:02",
+    "end_clock": "NI 2026/10/06 10:06:02"
+  },
+  {
+    "id": "P05357",
+    "start_id": 5357,
+    "end_id": 5357,
+    "positive_samples": 1,
+    "start_clock": "NI 2026/10/06 10:07:03",
+    "end_clock": "NI 2026/10/06 10:07:03"
+  },
+  {
+    "id": "P05452",
+    "start_id": 5452,
+    "end_id": 5461,
+    "positive_samples": 10,
+    "start_clock": "NI 2026/10/06 10:18:13",
+    "end_clock": "NI 2026/10/06 10:19:02"
+  },
+  {
+    "id": "P05620",
+    "start_id": 5620,
+    "end_id": 5628,
+    "positive_samples": 9,
+    "start_clock": "NI 2026/10/06 10:37:56",
+    "end_clock": "NI 2026/10/06 10:38:45"
+  },
+  {
+    "id": "P05665",
+    "start_id": 5665,
+    "end_id": 5667,
+    "positive_samples": 3,
+    "start_clock": "NI 2026/10/06 10:43:13",
+    "end_clock": "NI 2026/10/06 10:43:13"
+  },
+  {
+    "id": "P05706",
+    "start_id": 5706,
+    "end_id": 5720,
+    "positive_samples": 11,
+    "start_clock": "NI 2026/10/06 10:47:52",
+    "end_clock": "NI 2026/10/06 10:49:30"
+  },
+  {
+    "id": "P05732",
+    "start_id": 5732,
+    "end_id": 5732,
+    "positive_samples": 1,
+    "start_clock": "NI 2026/10/06 10:50:56",
+    "end_clock": "NI 2026/10/06 10:50:56"
+  },
+  {
+    "id": "P05881",
+    "start_id": 5881,
+    "end_id": 5886,
+    "positive_samples": 6,
+    "start_clock": "NI 2026/10/06 11:07:59",
+    "end_clock": "NI 2026/10/06 11:08:36"
+  },
+  {
+    "id": "P05966",
+    "start_id": 5966,
+    "end_id": 6004,
+    "positive_samples": 37,
+    "start_clock": "nI 2026/10/06 11:17:57",
+    "end_clock": "NI 2026/10/06 11:22:13"
+  },
+  {
+    "id": "P06053",
+    "start_id": 6053,
+    "end_id": 6054,
+    "positive_samples": 2,
+    "start_clock": "NI 2026/10/06 11:28:07",
+    "end_clock": "NI 2026/10/06 11:28:07"
+  },
+  {
+    "id": "P06075",
+    "start_id": 6075,
+    "end_id": 6077,
+    "positive_samples": 3,
+    "start_clock": "nI 2026/10/06 11:30:45",
+    "end_clock": "nI 2026/10/06 11:30:45"
+  },
+  {
+    "id": "P06187",
+    "start_id": 6187,
+    "end_id": 6189,
+    "positive_samples": 3,
+    "start_clock": "NI 2026/10/06 11:43:56",
+    "end_clock": "NI 2026/10/06 11:44:08"
+  },
+  {
+    "id": "P06254",
+    "start_id": 6254,
+    "end_id": 6258,
+    "positive_samples": 5,
+    "start_clock": "NI 2026/10/06 11:51:52",
+    "end_clock": "nI 2026/10/06 11:52:16"
+  },
+  {
+    "id": "P06294",
+    "start_id": 6294,
+    "end_id": 6295,
+    "positive_samples": 2,
+    "start_clock": "NI 2026/10/06 11:56:32",
+    "end_clock": "NI 2026/10/06 11:56:32"
+  },
+  {
+    "id": "P06317",
+    "start_id": 6317,
+    "end_id": 6507,
+    "positive_samples": 191,
+    "start_clock": "NI 2026/10/06 11:59:11",
+    "end_clock": "NI 2026/10/06 12:21:06"
+  },
+  {
+    "id": "P06632",
+    "start_id": 6632,
+    "end_id": 6632,
+    "positive_samples": 1,
+    "start_clock": "nI 2026/10/06 12:35:31",
+    "end_clock": "nI 2026/10/06 12:35:31"
+  },
+  {
+    "id": "P07025",
+    "start_id": 7025,
+    "end_id": 7056,
+    "positive_samples": 30,
+    "start_clock": "NI 2026/10/06 13:21:38",
+    "end_clock": "nI 2026/10/06 13:25:18"
+  },
+  {
+    "id": "P08247",
+    "start_id": 8247,
+    "end_id": 8259,
+    "positive_samples": 13,
+    "start_clock": "nI 2026/10/06 15:44:45",
+    "end_clock": "nI 2026/10/06 15:45:58"
+  },
+  {
+    "id": "P08425",
+    "start_id": 8425,
+    "end_id": 8431,
+    "positive_samples": 7,
+    "start_clock": "NI 2026/10/06 16:05:15",
+    "end_clock": "nI 2026/10/06 16:05:51"
+  },
+  {
+    "id": "P08460",
+    "start_id": 8460,
+    "end_id": 8465,
+    "positive_samples": 6,
+    "start_clock": "NI 2026/10/06 16:09:19",
+    "end_clock": "NI 2026/10/06 16:09:43"
+  },
+  {
+    "id": "P09414",
+    "start_id": 9414,
+    "end_id": 9420,
+    "positive_samples": 7,
+    "start_clock": "nI 2026/10/06 17:52:59",
+    "end_clock": "nI 2026/10/06 17:52:59"
+  },
+  {
+    "id": "P10403",
+    "start_id": 10403,
+    "end_id": 10406,
+    "positive_samples": 4,
+    "start_clock": "NI 2026/10/06 19:25:13",
+    "end_clock": "NI 2026/10/06 19:25:13"
+  },
+  {
+    "id": "P10426",
+    "start_id": 10426,
+    "end_id": 10436,
+    "positive_samples": 11,
+    "start_clock": "NI 2026/10/06 19:27:22",
+    "end_clock": "NI 2026/10/06 19:28:10"
+  },
+  {
+    "id": "P10524",
+    "start_id": 10524,
+    "end_id": 10537,
+    "positive_samples": 12,
+    "start_clock": "NI 2026/10/06 19:36:43",
+    "end_clock": "NI 2026/10/06 19:37:47"
+  },
+  {
+    "id": "P10871",
+    "start_id": 10871,
+    "end_id": 10880,
+    "positive_samples": 6,
+    "start_clock": "NI 2026/10/06 20:09:51",
+    "end_clock": "NI 2026/10/06 20:10:23"
+  },
+  {
+    "id": "P12487",
+    "start_id": 12487,
+    "end_id": 12490,
+    "positive_samples": 4,
+    "start_clock": "NI 2026/10/06 22:43:47",
+    "end_clock": "NI 2026/10/06 22:44:19"
+  },
+  {
+    "id": "P12497",
+    "start_id": 12497,
+    "end_id": 12498,
+    "positive_samples": 2,
+    "start_clock": "NI 2026/10/06 22:44:51",
+    "end_clock": "NI 2026/10/06 22:44:51"
+  },
+  {
+    "id": "P12507",
+    "start_id": 12507,
+    "end_id": 12507,
+    "positive_samples": 1,
+    "start_clock": "NI 2026/10/06 22:45:39",
+    "end_clock": "NI 2026/10/06 22:45:39"
+  },
+  {
+    "id": "P13161",
+    "start_id": 13161,
+    "end_id": 13166,
+    "positive_samples": 6,
+    "start_clock": "NI 2026/10/06 23:48:11",
+    "end_clock": "NI 2026/10/06 23:48:27"
+  },
+  {
+    "id": "P13576",
+    "start_id": 13576,
+    "end_id": 13589,
+    "positive_samples": 11,
+    "start_clock": "NI 2026/10/07 00:27:28",
+    "end_clock": "NI 2026/10/07 00:28:32"
+  }
+]

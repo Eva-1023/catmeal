@@ -1,0 +1,20 @@
+{
+  "status": "passed",
+  "events": 33,
+  "counted_feeding": 19,
+  "counts": {
+    "灰色长毛猫": 10,
+    "黄色短毛猫": 9
+  },
+  "source_video_sha256": "eae37949fe6fcd2b45569f794fffedaa5dbefcf01a53142d9e56e03423f1675d",
+  "evidence_images": 99,
+  "verified": [
+    "event start/end against extracted watermarks",
+    "independent count aggregation",
+    "image decode integrity",
+    "HTML local references",
+    "CSV row count",
+    "daily attribution by camera start date",
+    "source video full SHA256"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "status": "passed",
+  "events": 61,
+  "counted_feeding": 25,
+  "counts": {
+    "灰色长毛猫": 15,
+    "黄色短毛猫": 10
+  },
+  "source_video_sha256": "0b7d498152182f103d2478403f42220f15edee3818bb2726f1fd4e46b9b0d7d6",
+  "evidence_images": 183,
+  "verified": [
+    "event start/end against extracted watermarks",
+    "independent count aggregation",
+    "image decode integrity",
+    "HTML local references",
+    "CSV row count",
+    "daily attribution by camera start date",
+    "source video full SHA256",
+    "analysis source-code hashes against provenance",
+    "all seven primary time-jump boundaries outside food contact ranges",
+    "HTML script syntax with node --check",
+    "statistical chart and selected final evidence visually examined"
+  ],
+  "pytest": "29 passed",
+  "browser_render_check": "not performed; local references and JavaScript syntax checked"
+}

@@ -1,0 +1,898 @@
+[
+  {
+    "cat_id": "gray_longhair",
+    "cat": "灰色长毛猫",
+    "kind": "other_bowl",
+    "location": "前方圆碗（内容物未确认）",
+    "start": "2026-10-03T08:14:10+08:00",
+    "end": "2026-10-03T08:14:35+08:00",
+    "observed_span_seconds": 25.0,
+    "unique_camera_timestamps": 3,
+    "screen_start_seconds": 14.015,
+    "screen_end_seconds": 16.015,
+    "start_sample": 28,
+    "end_sample": 32,
+    "counted_feeding": false,
+    "identity_confidence": "high",
+    "note": "前方圆碗",
+    "evidence_sample_ids": [
+      28,
+      31,
+      32
+    ],
+    "event_id": "E001",
+    "evidence": [
+      "evidence/E001-1.jpg",
+      "evidence/E001-2.jpg",
+      "evidence/E001-3.jpg"
+    ]
+  },
+  {
+    "cat_id": "gray_longhair",
+    "cat": "灰色长毛猫",
+    "kind": "main_food",
+    "location": "方形猫粮食盆",
+    "start": "2026-10-03T08:14:47+08:00",
+    "end": "2026-10-03T08:16:13+08:00",
+    "observed_span_seconds": 86.0,
+    "unique_camera_timestamps": 8,
+    "screen_start_seconds": 16.515,
+    "screen_end_seconds": 23.015,
+    "start_sample": 33,
+    "end_sample": 46,
+    "counted_feeding": true,
+    "identity_confidence": "high",
+    "note": "方形猫粮食盆；后半段与黄色猫同时进食",
+    "evidence_sample_ids": [
+      33,
+      40,
+      46
+    ],
+    "event_id": "E002",
+    "evidence": [
+      "evidence/E002-1.jpg",
+      "evidence/E002-2.jpg",
+      "evidence/E002-3.jpg"
+    ]
+  },
+  {
+    "cat_id": "orange_shorthair",
+    "cat": "黄色短毛猫",
+    "kind": "main_food",
+    "location": "方形猫粮食盆",
+    "start": "2026-10-03T08:15:11+08:00",
+    "end": "2026-10-03T08:17:26+08:00",
+    "observed_span_seconds": 135.0,
+    "unique_camera_timestamps": 12,
+    "screen_start_seconds": 18.515,
+    "screen_end_seconds": 28.015,
+    "start_sample": 37,
+    "end_sample": 56,
+    "counted_feeding": true,
+    "identity_confidence": "high",
+    "note": "方形猫粮食盆；与灰猫并排后继续单独进食",
+    "evidence_sample_ids": [
+      37,
+      47,
+      56
+    ],
+    "event_id": "E003",
+    "evidence": [
+      "evidence/E003-1.jpg",
+      "evidence/E003-2.jpg",
+      "evidence/E003-3.jpg"
+    ]
+  },
+  {
+    "cat_id": "orange_shorthair",
+    "cat": "黄色短毛猫",
+    "kind": "other_bowl",
+    "location": "前方圆碗（内容物未确认）",
+    "start": "2026-10-03T08:17:38+08:00",
+    "end": "2026-10-03T08:17:51+08:00",
+    "observed_span_seconds": 13.0,
+    "unique_camera_timestamps": 2,
+    "screen_start_seconds": 28.515,
+    "screen_end_seconds": 29.515,
+    "start_sample": 57,
+    "end_sample": 59,
+    "counted_feeding": false,
+    "identity_confidence": "high",
+    "note": "前方圆碗",
+    "evidence_sample_ids": [
+      57,
+      59,
+      59
+    ],
+    "event_id": "E004",
+    "evidence": [
+      "evidence/E004-1.jpg",
+      "evidence/E004-2.jpg",
+      "evidence/E004-3.jpg"
+    ]
+  },
+  {
+    "cat_id": "orange_shorthair",
+    "cat": "黄色短毛猫",
+    "kind": "fountain",
+    "location": "饮水装置",
+    "start": "2026-10-03T08:18:03+08:00",
+    "end": "2026-10-03T08:18:03+08:00",
+    "observed_span_seconds": 0.0,
+    "unique_camera_timestamps": 1,
+    "screen_start_seconds": 30.515,
+    "screen_end_seconds": 30.515,
+    "start_sample": 61,
+    "end_sample": 61,
+    "counted_feeding": false,
+    "identity_confidence": "high",
+    "note": "左侧透明饮水装置",
+    "evidence_sample_ids": [
+      61,
+      61,
+      61
+    ],
+    "event_id": "E005",
+    "evidence": [
+      "evidence/E005-1.jpg",
+      "evidence/E005-2.jpg",
+      "evidence/E005-3.jpg"
+    ]
+  },
+  {
+    "cat_id": "orange_shorthair",
+    "cat": "黄色短毛猫",
+    "kind": "main_food",
+    "location": "方形猫粮食盆",
+    "start": "2026-10-03T08:21:08+08:00",
+    "end": "2026-10-03T08:22:35+08:00",
+    "observed_span_seconds": 87.0,
+    "unique_camera_timestamps": 8,
+    "screen_start_seconds": 46.013333333333335,
+    "screen_end_seconds": 53.01166666666666,
+    "start_sample": 92,
+    "end_sample": 106,
+    "counted_feeding": true,
+    "identity_confidence": "high",
+    "note": "先从右侧低头，再转到食盆前方",
+    "evidence_sample_ids": [
+      92,
+      100,
+      106
+    ],
+    "event_id": "E006",
+    "evidence": [
+      "evidence/E006-1.jpg",
+      "evidence/E006-2.jpg",
+      "evidence/E006-3.jpg"
+    ]
+  },
+  {
+    "cat_id": "gray_longhair",
+    "cat": "灰色长毛猫",
+    "kind": "other_bowl",
+    "location": "前方圆碗（内容物未确认）",
+    "start": "2026-10-03T08:21:21+08:00",
+    "end": "2026-10-03T08:22:35+08:00",
+    "observed_span_seconds": 74.0,
+    "unique_camera_timestamps": 7,
+    "screen_start_seconds": 47.013333333333335,
+    "screen_end_seconds": 53.01166666666666,
+    "start_sample": 94,
+    "end_sample": 106,
+    "counted_feeding": false,
+    "identity_confidence": "high",
+    "note": "前方圆碗",
+    "evidence_sample_ids": [
+      94,
+      100,
+      106
+    ],
+    "event_id": "E007",
+    "evidence": [
+      "evidence/E007-1.jpg",
+      "evidence/E007-2.jpg",
+      "evidence/E007-3.jpg"
+    ]
+  },
+  {
+    "cat_id": "gray_longhair",
+    "cat": "灰色长毛猫",
+    "kind": "main_food",
+    "location": "方形猫粮食盆",
+    "start": "2026-10-03T08:22:59+08:00",
+    "end": "2026-10-03T08:23:12+08:00",
+    "observed_span_seconds": 13.0,
+    "unique_camera_timestamps": 2,
+    "screen_start_seconds": 54.51166666666666,
+    "screen_end_seconds": 57.01166666666666,
+    "start_sample": 109,
+    "end_sample": 114,
+    "counted_feeding": true,
+    "identity_confidence": "high",
+    "note": "方形猫粮食盆，短次进食",
+    "evidence_sample_ids": [
+      109,
+      114,
+      114
+    ],
+    "event_id": "E008",
+    "evidence": [
+      "evidence/E008-1.jpg",
+      "evidence/E008-2.jpg",
+      "evidence/E008-3.jpg"
+    ]
+  },
+  {
+    "cat_id": "orange_shorthair",
+    "cat": "黄色短毛猫",
+    "kind": "other_bowl",
+    "location": "前方圆碗（内容物未确认）",
+    "start": "2026-10-03T08:23:48+08:00",
+    "end": "2026-10-03T08:24:25+08:00",
+    "observed_span_seconds": 37.0,
+    "unique_camera_timestamps": 4,
+    "screen_start_seconds": 59.01166666666666,
+    "screen_end_seconds": 62.51166666666666,
+    "start_sample": 118,
+    "end_sample": 125,
+    "counted_feeding": false,
+    "identity_confidence": "high",
+    "note": "前方圆碗",
+    "evidence_sample_ids": [
+      118,
+      123,
+      125
+    ],
+    "event_id": "E009",
+    "evidence": [
+      "evidence/E009-1.jpg",
+      "evidence/E009-2.jpg",
+      "evidence/E009-3.jpg"
+    ]
+  },
+  {
+    "cat_id": "gray_longhair",
+    "cat": "灰色长毛猫",
+    "kind": "other_bowl",
+    "location": "前方圆碗（内容物未确认）",
+    "start": "2026-10-03T08:30:08+08:00",
+    "end": "2026-10-03T08:30:46+08:00",
+    "observed_span_seconds": 38.0,
+    "unique_camera_timestamps": 4,
+    "screen_start_seconds": 88.01,
+    "screen_end_seconds": 91.01,
+    "start_sample": 176,
+    "end_sample": 182,
+    "counted_feeding": false,
+    "identity_confidence": "high",
+    "note": "前方圆碗，随后抬头",
+    "evidence_sample_ids": [
+      176,
+      180,
+      182
+    ],
+    "event_id": "E010",
+    "evidence": [
+      "evidence/E010-1.jpg",
+      "evidence/E010-2.jpg",
+      "evidence/E010-3.jpg"
+    ]
+  },
+  {
+    "cat_id": "orange_shorthair",
+    "cat": "黄色短毛猫",
+    "kind": "main_food",
+    "location": "方形猫粮食盆",
+    "start": "2026-10-03T08:32:11+08:00",
+    "end": "2026-10-03T08:32:36+08:00",
+    "observed_span_seconds": 25.0,
+    "unique_camera_timestamps": 3,
+    "screen_start_seconds": 97.50833333333334,
+    "screen_end_seconds": 99.50833333333334,
+    "start_sample": 195,
+    "end_sample": 199,
+    "counted_feeding": true,
+    "identity_confidence": "high",
+    "note": "在食盆和紧邻前缘低头，随后抬头离开",
+    "evidence_sample_ids": [
+      195,
+      197,
+      199
+    ],
+    "event_id": "E011",
+    "evidence": [
+      "evidence/E011-1.jpg",
+      "evidence/E011-2.jpg",
+      "evidence/E011-3.jpg"
+    ]
+  },
+  {
+    "cat_id": "orange_shorthair",
+    "cat": "黄色短毛猫",
+    "kind": "fountain",
+    "location": "饮水装置",
+    "start": "2026-10-03T08:33:01+08:00",
+    "end": "2026-10-03T08:33:38+08:00",
+    "observed_span_seconds": 37.0,
+    "unique_camera_timestamps": 4,
+    "screen_start_seconds": 101.50833333333334,
+    "screen_end_seconds": 104.00833333333334,
+    "start_sample": 203,
+    "end_sample": 208,
+    "counted_feeding": false,
+    "identity_confidence": "high",
+    "note": "左侧透明饮水装置",
+    "evidence_sample_ids": [
+      203,
+      207,
+      208
+    ],
+    "event_id": "E012",
+    "evidence": [
+      "evidence/E012-1.jpg",
+      "evidence/E012-2.jpg",
+      "evidence/E012-3.jpg"
+    ]
+  },
+  {
+    "cat_id": "orange_shorthair",
+    "cat": "黄色短毛猫",
+    "kind": "other_bowl",
+    "location": "前方圆碗（内容物未确认）",
+    "start": "2026-10-03T08:42:03+08:00",
+    "end": "2026-10-03T08:42:28+08:00",
+    "observed_span_seconds": 25.0,
+    "unique_camera_timestamps": 3,
+    "screen_start_seconds": 145.505,
+    "screen_end_seconds": 147.005,
+    "start_sample": 291,
+    "end_sample": 294,
+    "counted_feeding": false,
+    "identity_confidence": "high",
+    "note": "前方圆碗",
+    "evidence_sample_ids": [
+      291,
+      292,
+      294
+    ],
+    "event_id": "E013",
+    "evidence": [
+      "evidence/E013-1.jpg",
+      "evidence/E013-2.jpg",
+      "evidence/E013-3.jpg"
+    ]
+  },
+  {
+    "cat_id": "gray_longhair",
+    "cat": "灰色长毛猫",
+    "kind": "main_food",
+    "location": "方形猫粮食盆",
+    "start": "2026-10-03T09:05:14+08:00",
+    "end": "2026-10-03T09:05:51+08:00",
+    "observed_span_seconds": 37.0,
+    "unique_camera_timestamps": 4,
+    "screen_start_seconds": 254.51166666666666,
+    "screen_end_seconds": 257.01166666666666,
+    "start_sample": 509,
+    "end_sample": 514,
+    "counted_feeding": true,
+    "identity_confidence": "high",
+    "note": "从右侧接触方形猫粮食盆",
+    "evidence_sample_ids": [
+      509,
+      512,
+      514
+    ],
+    "event_id": "E014",
+    "evidence": [
+      "evidence/E014-1.jpg",
+      "evidence/E014-2.jpg",
+      "evidence/E014-3.jpg"
+    ]
+  },
+  {
+    "cat_id": "orange_shorthair",
+    "cat": "黄色短毛猫",
+    "kind": "main_food",
+    "location": "方形猫粮食盆",
+    "start": "2026-10-03T09:07:16+08:00",
+    "end": "2026-10-03T09:07:41+08:00",
+    "observed_span_seconds": 25.0,
+    "unique_camera_timestamps": 2,
+    "screen_start_seconds": 263.01166666666666,
+    "screen_end_seconds": 264.51166666666666,
+    "start_sample": 526,
+    "end_sample": 529,
+    "counted_feeding": true,
+    "identity_confidence": "high",
+    "note": "方形猫粮食盆",
+    "evidence_sample_ids": [
+      526,
+      529,
+      529
+    ],
+    "event_id": "E015",
+    "evidence": [
+      "evidence/E015-1.jpg",
+      "evidence/E015-2.jpg",
+      "evidence/E015-3.jpg"
+    ]
+  },
+  {
+    "cat_id": "orange_shorthair",
+    "cat": "黄色短毛猫",
+    "kind": "other_bowl",
+    "location": "前方圆碗（内容物未确认）",
+    "start": "2026-10-03T09:12:35+08:00",
+    "end": "2026-10-03T09:12:59+08:00",
+    "observed_span_seconds": 24.0,
+    "unique_camera_timestamps": 3,
+    "screen_start_seconds": 286.51,
+    "screen_end_seconds": 288.51,
+    "start_sample": 573,
+    "end_sample": 577,
+    "counted_feeding": false,
+    "identity_confidence": "high",
+    "note": "前方圆碗，随后坐起",
+    "evidence_sample_ids": [
+      573,
+      575,
+      577
+    ],
+    "event_id": "E016",
+    "evidence": [
+      "evidence/E016-1.jpg",
+      "evidence/E016-2.jpg",
+      "evidence/E016-3.jpg"
+    ]
+  },
+  {
+    "cat_id": "gray_longhair",
+    "cat": "灰色长毛猫",
+    "kind": "other_bowl",
+    "location": "前方圆碗（内容物未确认）",
+    "start": "2026-10-03T09:15:02+08:00",
+    "end": "2026-10-03T09:16:41+08:00",
+    "observed_span_seconds": 99.0,
+    "unique_camera_timestamps": 6,
+    "screen_start_seconds": 298.0083333333333,
+    "screen_end_seconds": 306.5083333333333,
+    "start_sample": 596,
+    "end_sample": 613,
+    "counted_feeding": false,
+    "identity_confidence": "high",
+    "note": "前方圆碗；与后段间隔49秒，按60秒规则合并；前方圆碗",
+    "evidence_sample_ids": [
+      596,
+      609,
+      613
+    ],
+    "event_id": "E017",
+    "evidence": [
+      "evidence/E017-1.jpg",
+      "evidence/E017-2.jpg",
+      "evidence/E017-3.jpg"
+    ]
+  },
+  {
+    "cat_id": "gray_longhair",
+    "cat": "灰色长毛猫",
+    "kind": "main_food",
+    "location": "方形猫粮食盆",
+    "start": "2026-10-03T09:36:52+08:00",
+    "end": "2026-10-03T09:37:28+08:00",
+    "observed_span_seconds": 36.0,
+    "unique_camera_timestamps": 4,
+    "screen_start_seconds": 395.0,
+    "screen_end_seconds": 398.0,
+    "start_sample": 790,
+    "end_sample": 796,
+    "counted_feeding": true,
+    "identity_confidence": "high",
+    "note": "方形猫粮食盆",
+    "evidence_sample_ids": [
+      790,
+      794,
+      796
+    ],
+    "event_id": "E018",
+    "evidence": [
+      "evidence/E018-1.jpg",
+      "evidence/E018-2.jpg",
+      "evidence/E018-3.jpg"
+    ]
+  },
+  {
+    "cat_id": "gray_longhair",
+    "cat": "灰色长毛猫",
+    "kind": "other_bowl",
+    "location": "前方圆碗（内容物未确认）",
+    "start": "2026-10-03T12:03:25+08:00",
+    "end": "2026-10-03T12:04:27+08:00",
+    "observed_span_seconds": 62.0,
+    "unique_camera_timestamps": 6,
+    "screen_start_seconds": 1069.0083333333334,
+    "screen_end_seconds": 1073.5083333333334,
+    "start_sample": 2138,
+    "end_sample": 2147,
+    "counted_feeding": false,
+    "identity_confidence": "high",
+    "note": "前方圆碗",
+    "evidence_sample_ids": [
+      2138,
+      2143,
+      2147
+    ],
+    "event_id": "E019",
+    "evidence": [
+      "evidence/E019-1.jpg",
+      "evidence/E019-2.jpg",
+      "evidence/E019-3.jpg"
+    ]
+  },
+  {
+    "cat_id": "gray_longhair",
+    "cat": "灰色长毛猫",
+    "kind": "main_food",
+    "location": "方形猫粮食盆",
+    "start": "2026-10-03T12:57:31+08:00",
+    "end": "2026-10-03T12:58:21+08:00",
+    "observed_span_seconds": 50.0,
+    "unique_camera_timestamps": 5,
+    "screen_start_seconds": 1322.5033333333333,
+    "screen_end_seconds": 1327.0033333333333,
+    "start_sample": 2645,
+    "end_sample": 2654,
+    "counted_feeding": true,
+    "identity_confidence": "high",
+    "note": "从右侧低头接触方形猫粮食盆，长毛与蓬松尾巴清晰",
+    "evidence_sample_ids": [
+      2645,
+      2649,
+      2654
+    ],
+    "event_id": "E020",
+    "evidence": [
+      "evidence/E020-1.jpg",
+      "evidence/E020-2.jpg",
+      "evidence/E020-3.jpg"
+    ]
+  },
+  {
+    "cat_id": "gray_longhair",
+    "cat": "灰色长毛猫",
+    "kind": "main_food",
+    "location": "方形猫粮食盆",
+    "start": "2026-10-03T13:15:30+08:00",
+    "end": "2026-10-03T13:15:43+08:00",
+    "observed_span_seconds": 13.0,
+    "unique_camera_timestamps": 2,
+    "screen_start_seconds": 1403.5133333333333,
+    "screen_end_seconds": 1404.0133333333333,
+    "start_sample": 2807,
+    "end_sample": 2808,
+    "counted_feeding": true,
+    "identity_confidence": "high",
+    "note": "从右侧低头接触方形猫粮食盆，长毛与蓬松尾巴清晰",
+    "evidence_sample_ids": [
+      2807,
+      2808,
+      2808
+    ],
+    "event_id": "E021",
+    "evidence": [
+      "evidence/E021-1.jpg",
+      "evidence/E021-2.jpg",
+      "evidence/E021-3.jpg"
+    ]
+  },
+  {
+    "cat_id": "gray_longhair",
+    "cat": "灰色长毛猫",
+    "kind": "main_food",
+    "location": "方形猫粮食盆",
+    "start": "2026-10-03T13:53:37+08:00",
+    "end": "2026-10-03T13:54:01+08:00",
+    "observed_span_seconds": 24.0,
+    "unique_camera_timestamps": 3,
+    "screen_start_seconds": 1584.0133333333333,
+    "screen_end_seconds": 1585.5133333333333,
+    "start_sample": 3168,
+    "end_sample": 3171,
+    "counted_feeding": true,
+    "identity_confidence": "high",
+    "note": "从右侧低头接触方形猫粮食盆",
+    "evidence_sample_ids": [
+      3168,
+      3170,
+      3171
+    ],
+    "event_id": "E022",
+    "evidence": [
+      "evidence/E022-1.jpg",
+      "evidence/E022-2.jpg",
+      "evidence/E022-3.jpg"
+    ]
+  },
+  {
+    "cat_id": "orange_shorthair",
+    "cat": "黄色短毛猫",
+    "kind": "other_bowl",
+    "location": "前方圆碗（内容物未确认）",
+    "start": "2026-10-03T14:00:19+08:00",
+    "end": "2026-10-03T14:00:56+08:00",
+    "observed_span_seconds": 37.0,
+    "unique_camera_timestamps": 4,
+    "screen_start_seconds": 1612.0116666666668,
+    "screen_end_seconds": 1615.01,
+    "start_sample": 3224,
+    "end_sample": 3230,
+    "counted_feeding": false,
+    "identity_confidence": "high",
+    "note": "前方圆碗",
+    "evidence_sample_ids": [
+      3224,
+      3228,
+      3230
+    ],
+    "event_id": "E023",
+    "evidence": [
+      "evidence/E023-1.jpg",
+      "evidence/E023-2.jpg",
+      "evidence/E023-3.jpg"
+    ]
+  },
+  {
+    "cat_id": "orange_shorthair",
+    "cat": "黄色短毛猫",
+    "kind": "main_food",
+    "location": "方形猫粮食盆",
+    "start": "2026-10-03T14:01:09+08:00",
+    "end": "2026-10-03T14:01:58+08:00",
+    "observed_span_seconds": 49.0,
+    "unique_camera_timestamps": 5,
+    "screen_start_seconds": 1616.01,
+    "screen_end_seconds": 1620.01,
+    "start_sample": 3232,
+    "end_sample": 3240,
+    "counted_feeding": true,
+    "identity_confidence": "high",
+    "note": "从圆碗转到方形食盆，期间短暂抬头",
+    "evidence_sample_ids": [
+      3232,
+      3236,
+      3240
+    ],
+    "event_id": "E024",
+    "evidence": [
+      "evidence/E024-1.jpg",
+      "evidence/E024-2.jpg",
+      "evidence/E024-3.jpg"
+    ]
+  },
+  {
+    "cat_id": "gray_longhair",
+    "cat": "灰色长毛猫",
+    "kind": "main_food",
+    "location": "方形猫粮食盆",
+    "start": "2026-10-03T17:19:57+08:00",
+    "end": "2026-10-03T17:20:21+08:00",
+    "observed_span_seconds": 24.0,
+    "unique_camera_timestamps": 3,
+    "screen_start_seconds": 2516.5133333333333,
+    "screen_end_seconds": 2518.5133333333333,
+    "start_sample": 5033,
+    "end_sample": 5037,
+    "counted_feeding": true,
+    "identity_confidence": "high",
+    "note": "灰色长毛猫，尾巴蓬松，正面低头接触方形猫粮食盆",
+    "evidence_sample_ids": [
+      5033,
+      5036,
+      5037
+    ],
+    "event_id": "E025",
+    "evidence": [
+      "evidence/E025-1.jpg",
+      "evidence/E025-2.jpg",
+      "evidence/E025-3.jpg"
+    ]
+  },
+  {
+    "cat_id": "gray_longhair",
+    "cat": "灰色长毛猫",
+    "kind": "main_food",
+    "location": "方形猫粮食盆",
+    "start": "2026-10-03T19:11:09+08:00",
+    "end": "2026-10-03T19:11:42+08:00",
+    "observed_span_seconds": 33.0,
+    "unique_camera_timestamps": 3,
+    "screen_start_seconds": 3154.5066666666667,
+    "screen_end_seconds": 3157.0066666666667,
+    "start_sample": 6309,
+    "end_sample": 6314,
+    "counted_feeding": true,
+    "identity_confidence": "medium",
+    "note": "夜视：长毛轮廓和蓬松尾部对应灰色长毛猫；不能从红外灰度推断毛色",
+    "evidence_sample_ids": [
+      6309,
+      6311,
+      6314
+    ],
+    "event_id": "E026",
+    "evidence": [
+      "evidence/E026-1.jpg",
+      "evidence/E026-2.jpg",
+      "evidence/E026-3.jpg"
+    ]
+  },
+  {
+    "cat_id": "gray_longhair",
+    "cat": "灰色长毛猫",
+    "kind": "main_food",
+    "location": "方形猫粮食盆",
+    "start": "2026-10-03T19:22:39+08:00",
+    "end": "2026-10-03T19:23:11+08:00",
+    "observed_span_seconds": 32.0,
+    "unique_camera_timestamps": 3,
+    "screen_start_seconds": 3215.0016666666666,
+    "screen_end_seconds": 3217.5,
+    "start_sample": 6430,
+    "end_sample": 6435,
+    "counted_feeding": true,
+    "identity_confidence": "medium",
+    "note": "夜视：从右侧接触食盆后转到正面，蓬松尾巴和长毛对应灰猫；补看模型漏掉的末尾3帧",
+    "evidence_sample_ids": [
+      6430,
+      6433,
+      6435
+    ],
+    "event_id": "E027",
+    "evidence": [
+      "evidence/E027-1.jpg",
+      "evidence/E027-2.jpg",
+      "evidence/E027-3.jpg"
+    ]
+  },
+  {
+    "cat_id": "orange_shorthair",
+    "cat": "黄色短毛猫",
+    "kind": "main_food",
+    "location": "方形猫粮食盆",
+    "start": "2026-10-03T19:27:12+08:00",
+    "end": "2026-10-03T19:27:12+08:00",
+    "observed_span_seconds": 0.0,
+    "unique_camera_timestamps": 1,
+    "screen_start_seconds": 3239.015,
+    "screen_end_seconds": 3239.015,
+    "start_sample": 6478,
+    "end_sample": 6478,
+    "counted_feeding": false,
+    "identity_confidence": "medium",
+    "note": "夜视：短毛、较细尾巴对应黄色猫；仅一个监控时刻看到食盆接触，作为短暂接触另列",
+    "evidence_sample_ids": [
+      6478,
+      6478,
+      6478
+    ],
+    "event_id": "E028",
+    "evidence": [
+      "evidence/E028-1.jpg",
+      "evidence/E028-2.jpg",
+      "evidence/E028-3.jpg"
+    ]
+  },
+  {
+    "cat_id": "gray_longhair",
+    "cat": "灰色长毛猫",
+    "kind": "main_food",
+    "location": "方形猫粮食盆",
+    "start": "2026-10-03T20:43:22+08:00",
+    "end": "2026-10-03T20:43:38+08:00",
+    "observed_span_seconds": 16.0,
+    "unique_camera_timestamps": 2,
+    "screen_start_seconds": 3639.5133333333333,
+    "screen_end_seconds": 3640.5133333333333,
+    "start_sample": 7279,
+    "end_sample": 7281,
+    "counted_feeding": true,
+    "identity_confidence": "medium",
+    "note": "夜视：从右側接触食盆，长毛背线、蓬松尾巴对应灰猫，后退坐下停止",
+    "evidence_sample_ids": [
+      7279,
+      7281,
+      7281
+    ],
+    "event_id": "E029",
+    "evidence": [
+      "evidence/E029-1.jpg",
+      "evidence/E029-2.jpg",
+      "evidence/E029-3.jpg"
+    ]
+  },
+  {
+    "cat_id": "orange_shorthair",
+    "cat": "黄色短毛猫",
+    "kind": "main_food",
+    "location": "方形猫粮食盆",
+    "start": "2026-10-03T21:04:45+08:00",
+    "end": "2026-10-03T21:04:45+08:00",
+    "observed_span_seconds": 0.0,
+    "unique_camera_timestamps": 1,
+    "screen_start_seconds": 3753.0033333333336,
+    "screen_end_seconds": 3753.0033333333336,
+    "start_sample": 7506,
+    "end_sample": 7506,
+    "counted_feeding": false,
+    "identity_confidence": "medium",
+    "note": "夜视：仅一个监控时刻接触食盆，随后离开；短毛和尾巴对应黄色猫",
+    "evidence_sample_ids": [
+      7506,
+      7506,
+      7506
+    ],
+    "event_id": "E030",
+    "evidence": [
+      "evidence/E030-1.jpg",
+      "evidence/E030-2.jpg",
+      "evidence/E030-3.jpg"
+    ]
+  },
+  {
+    "cat_id": "gray_longhair",
+    "cat": "灰色长毛猫",
+    "kind": "main_food",
+    "location": "方形猫粮食盆",
+    "start": "2026-10-03T21:25:03+08:00",
+    "end": "2026-10-03T21:26:08+08:00",
+    "observed_span_seconds": 65.0,
+    "unique_camera_timestamps": 5,
+    "screen_start_seconds": 3859.51,
+    "screen_end_seconds": 3865.51,
+    "start_sample": 7719,
+    "end_sample": 7731,
+    "counted_feeding": true,
+    "identity_confidence": "medium",
+    "note": "夜视：长毛和蓬松尾巴对应灰猫；扩展复核候选前后漏检帧，期间短暂抬头",
+    "evidence_sample_ids": [
+      7719,
+      7725,
+      7731
+    ],
+    "event_id": "E031",
+    "evidence": [
+      "evidence/E031-1.jpg",
+      "evidence/E031-2.jpg",
+      "evidence/E031-3.jpg"
+    ]
+  },
+  {
+    "cat_id": "gray_longhair",
+    "cat": "灰色长毛猫",
+    "kind": "other_bowl",
+    "location": "前方圆碗（内容物未确认）",
+    "start": "2026-10-03T22:09:17+08:00",
+    "end": "2026-10-03T22:11:09+08:00",
+    "observed_span_seconds": 112.0,
+    "unique_camera_timestamps": 8,
+    "screen_start_seconds": 4088.5066666666667,
+    "screen_end_seconds": 4098.005,
+    "start_sample": 8177,
+    "end_sample": 8196,
+    "counted_feeding": false,
+    "identity_confidence": "medium",
+    "note": "夜视：灰色长毛猫在前方圆碗接触，期间抬头；食盆没有低头接触",
+    "evidence_sample_ids": [
+      8177,
+      8187,
+      8196
+    ],
+    "event_id": "E032",
+    "evidence": [
+      "evidence/E032-1.jpg",
+      "evidence/E032-2.jpg",
+      "evidence/E032-3.jpg"
+    ]
+  }
+]

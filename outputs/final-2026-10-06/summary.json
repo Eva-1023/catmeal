@@ -1,0 +1,222 @@
+{
+  "counts": [
+    {
+      "period": "2026-10-06 至 2026-10-07",
+      "scope": "whole_recording",
+      "cat": "黄色短毛猫",
+      "feeding_bouts": 13,
+      "night_identity_inferred_bouts": 4,
+      "other_bowl_bouts": 7,
+      "fountain_bouts": 3,
+      "brief_food_contacts": 1
+    },
+    {
+      "period": "2026-10-06 至 2026-10-07",
+      "scope": "whole_recording",
+      "cat": "灰色长毛猫",
+      "feeding_bouts": 9,
+      "night_identity_inferred_bouts": 3,
+      "other_bowl_bouts": 7,
+      "fountain_bouts": 6,
+      "brief_food_contacts": 0
+    },
+    {
+      "period": "2026-10-06 至 2026-10-07",
+      "scope": "whole_recording",
+      "cat": "身份不确定",
+      "feeding_bouts": 0,
+      "night_identity_inferred_bouts": 0,
+      "other_bowl_bouts": 0,
+      "fountain_bouts": 0,
+      "brief_food_contacts": 0
+    }
+  ],
+  "daily_counts": [
+    {
+      "date": "2026-10-06",
+      "cat": "黄色短毛猫",
+      "feeding_bouts": 13,
+      "night_identity_inferred_bouts": 4,
+      "other_bowl_bouts": 6,
+      "fountain_bouts": 3,
+      "brief_food_contacts": 1
+    },
+    {
+      "date": "2026-10-06",
+      "cat": "灰色长毛猫",
+      "feeding_bouts": 9,
+      "night_identity_inferred_bouts": 3,
+      "other_bowl_bouts": 7,
+      "fountain_bouts": 6,
+      "brief_food_contacts": 0
+    },
+    {
+      "date": "2026-10-06",
+      "cat": "身份不确定",
+      "feeding_bouts": 0,
+      "night_identity_inferred_bouts": 0,
+      "other_bowl_bouts": 0,
+      "fountain_bouts": 0,
+      "brief_food_contacts": 0
+    },
+    {
+      "date": "2026-10-07",
+      "cat": "黄色短毛猫",
+      "feeding_bouts": 0,
+      "night_identity_inferred_bouts": 0,
+      "other_bowl_bouts": 1,
+      "fountain_bouts": 0,
+      "brief_food_contacts": 0
+    },
+    {
+      "date": "2026-10-07",
+      "cat": "灰色长毛猫",
+      "feeding_bouts": 0,
+      "night_identity_inferred_bouts": 0,
+      "other_bowl_bouts": 0,
+      "fountain_bouts": 0,
+      "brief_food_contacts": 0
+    },
+    {
+      "date": "2026-10-07",
+      "cat": "身份不确定",
+      "feeding_bouts": 0,
+      "night_identity_inferred_bouts": 0,
+      "other_bowl_bouts": 0,
+      "fountain_bouts": 0,
+      "brief_food_contacts": 0
+    }
+  ],
+  "coverage": {
+    "samples": 13632,
+    "valid_clocks": 13632,
+    "first": "2026-10-06T01:16:48+08:00",
+    "last": "2026-10-07T00:31:57+08:00",
+    "transitions": {
+      "repeat": 7676,
+      "advance": 5948,
+      "jump": 6,
+      "rewind": 1
+    },
+    "step_histogram": {
+      "-56.0": 1,
+      "0.0": 7676,
+      "10.0": 2,
+      "11.0": 35,
+      "12.0": 2518,
+      "13.0": 833,
+      "14.0": 2,
+      "15.0": 203,
+      "16.0": 1953,
+      "17.0": 287,
+      "19.0": 2,
+      "20.0": 4,
+      "22.0": 2,
+      "23.0": 2,
+      "24.0": 61,
+      "25.0": 44,
+      "48.0": 1,
+      "49.0": 1,
+      "50.0": 1,
+      "61.0": 1,
+      "64.0": 1,
+      "71.0": 1
+    },
+    "anomalies": [
+      {
+        "first_id": 95,
+        "last_id": 96,
+        "kind": "jump",
+        "camera_seconds": 64.0
+      },
+      {
+        "first_id": 98,
+        "last_id": 99,
+        "kind": "rewind",
+        "camera_seconds": -56.0
+      },
+      {
+        "first_id": 3451,
+        "last_id": 3452,
+        "kind": "jump",
+        "camera_seconds": 50.0
+      },
+      {
+        "first_id": 5383,
+        "last_id": 5384,
+        "kind": "jump",
+        "camera_seconds": 61.0
+      },
+      {
+        "first_id": 5384,
+        "last_id": 5385,
+        "kind": "jump",
+        "camera_seconds": 49.0
+      },
+      {
+        "first_id": 5429,
+        "last_id": 5430,
+        "kind": "jump",
+        "camera_seconds": 71.0
+      },
+      {
+        "first_id": 5705,
+        "last_id": 5706,
+        "kind": "jump",
+        "camera_seconds": 48.0
+      }
+    ]
+  },
+  "combined_clock_audit": {
+    "unique_camera_instants": 6021,
+    "first": 1791220608.0,
+    "last": 1791304317.0,
+    "camera_span_seconds": 83709.0,
+    "largest_step_seconds": 59.0,
+    "step_histogram": {
+      "8.0": 3,
+      "10.0": 2,
+      "11.0": 37,
+      "12.0": 2612,
+      "13.0": 860,
+      "14.0": 2,
+      "15.0": 203,
+      "16.0": 1952,
+      "17.0": 287,
+      "19.0": 2,
+      "20.0": 4,
+      "22.0": 2,
+      "23.0": 1,
+      "24.0": 30,
+      "25.0": 20,
+      "37.0": 1,
+      "49.0": 1,
+      "59.0": 1
+    },
+    "decoded_source_frames": 408568,
+    "supplementary_instants": 65
+  },
+  "merge_gap_sensitivity": {
+    "30": {
+      "orange_shorthair": 12,
+      "gray_longhair": 10
+    },
+    "60": {
+      "orange_shorthair": 13,
+      "gray_longhair": 9
+    },
+    "120": {
+      "orange_shorthair": 13,
+      "gray_longhair": 9
+    }
+  },
+  "coverage_note": "开头回放在01:24:49后退回01:23:53，已直接核对原水印并分段处理，前后食盆为空，未产生重复进食计数。黄昏曝光变化及夜间锚点遮挡告警均复核，食盆位置保持有效；录屏尾部有长时间停留，按水印去重。该片段不能补足10月6日00:11:45至01:16:48未覆盖的时段，也不能代表完整全天。",
+  "method": {
+    "screen_sample_fps": 2,
+    "merge_gap_camera_seconds": 60,
+    "min_span_camera_seconds": 10,
+    "main_food_only": true,
+    "reviewed_by": "Codex visual examination",
+    "not_full_day": true
+  }
+}

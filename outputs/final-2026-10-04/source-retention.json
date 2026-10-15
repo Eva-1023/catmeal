@@ -1,0 +1,9 @@
+{
+  "source_video_status": "deleted_at_user_request",
+  "deleted_at": "2026-10-06T22:40:10.612047+08:00",
+  "source_video_path": "data/videos/ScreenRecording_10-04-2026 23-41-46_1.mp4",
+  "source_video_sha256": "eae37949fe6fcd2b45569f794fffedaa5dbefcf01a53142d9e56e03423f1675d",
+  "preserved_evidence_images": 99,
+  "cleanup_manifest": "outputs/source-video-cleanup-2026-10-06.json",
+  "note": "Existing validation describes checks completed before deletion. Reports and keyframes remain usable. Re-decoding or source-video SHA256 verification requires reimporting the matching source."
+}

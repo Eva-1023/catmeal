@@ -1,0 +1,42 @@
+{
+  "visual-review.json": "742300c7a3b8e05b7a2e13b98eedda4dcc1371df2bc3928d9babba9473a1fb94",
+  "review-timeline.json": "15f598a9cb5b8c996b62a8b4bb94aeed8a3a28c6a14f8dff83f1c2a5b00f20ff",
+  "camera-timeline.json": "5212826b5ebf5d7368d92cd0df0e5f5380f51db84a344c8ab5f0eedb4237b442",
+  "proposals.json": "a93f1b9e2c2aa12db0d68792295ab4650d7990c2dad664c04ade8f769c35ee12",
+  "motion-audit.json": "227bcd3dfb4829ddea2d32bb6f15a7c9b068a6de5ad8450a202465b847ee44be",
+  "clock-change-audit/comparison.json": "bc90ed58d59bcbff7a1b27505b97e6ca010b01d0f32d3d35934c4c75d2e8fac8",
+  "clock-change-audit/extraction.json": "a795388df254312c245ca9888c622b682e8ba915fc7eb01d42b9a9ca9b5a1bf0",
+  "combined-clock-audit.json": "026a70f7b406d5be6ea959809b4f5720f6acec685e39a98e6451a31924796049",
+  "analysis-config.json": "6a06a29ad5d3e1082539fb8c7a895eb3d152e41fc04cc729e696f0e32ec122ef",
+  "analysis_code_sha256": {
+    "catmeal/screenrecording.py": "acebbd4ef6687fe9a34f9ab618748fb8f0894d4c621e97d4cfbbc2d8b9815fed",
+    "scripts/analyze_screenrecording.py": "0f25eccf4a1037724e8963b38fafa86580b17a452ba041b661c9ffb88e3da760",
+    "scripts/audit_all_clock_changes.py": "ad4a9e19a829589a88f8087d6983e5c045d649933b35ae4d4ffae327108188e1",
+    "scripts/audit_feeder_motion.py": "91fd03ffd73d914d5b8ba1dd295f8bf581cc3df3126b13e382ec8a309b9bc1ab",
+    "scripts/audit_feeder_tracking.py": "73d4e7ad2a722f63c67218fc6ed9cdc736dca9d2e3acf941c6954737b62eaf8c",
+    "scripts/build_camera_timeline.py": "e792ace499f5e37d560154346fc14eeaf49bdca3b7280dc48ae36d35270ffc83",
+    "scripts/build_real_proposals.py": "cd1922fd6118059315f090c1ed9fb5ba1494bb14fb5f0a35862879bebb52a35b",
+    "scripts/compare_clock_audit.py": "dcea0163845204bbb7e111a7e7454709f0a992f6b2b2ee5a94afa213402e66fd",
+    "scripts/detect_feeder_samples.py": "8d47c160647e59f7735ca5f718cbb80afdc9c7403fcced8562ef24ab5853a733",
+    "scripts/extract_recording_with_clock_audit.py": "13a281a649c4ae1c36da2cc88d232282fe459795c4fb8c5598a85618786bba36",
+    "scripts/finalize_real_analysis.py": "4bbaf7ba2c9433346ef633239532c1d8ec1b2ca6262a232ee773b7b83ccaf545",
+    "scripts/import_ipad_video.py": "f9c0fada0bcea7521acef98c879ec909dd01210bb183c9bdb694c95f11f6b78f",
+    "scripts/make_demo.py": "88b9dba992e7908de0513a79c62dc8289526bfde35ee7f9ac14dffab0efaf86d",
+    "scripts/make_review_sheets.py": "5d665e5573991135217847064c6b9c6ccf36008c9c6396b236ea8dba503215f8",
+    "scripts/plot_real_results.py": "64557b47c35a2719633c43ff069f88318cac33dd360325018a29d2f0fb03620e",
+    "scripts/probe_screenrecording.py": "c8912f21c8c31eac1d880e908437f2ee4ca54cb08ac5c63cc17733212d06bc41",
+    "scripts/run_clock_ocr.py": "0825421ce48218c8d1b8cf4fb472ba0e548e2853e0542103c7f36aa65fb52966",
+    "scripts/smoke_pipeline.py": "8742a520fe5518bd5241ac18ad9dc5d708334105758b04e8e89c55e51258cab3",
+    "scripts/verify_final_analysis.py": "5c45200e07959baa395ce723e8fb8026f84d117c14fabda2f52dc3b7e5865ffa",
+    "scripts/verify_ipad_video.py": "f174b46e54fb775ec2f07a8c03f1193f7e57b21a659edb4aaa1eb694223b9317",
+    "scripts/ocr_clock.swift": "0b1d6feac945093ab129c6838dd7e808d56c7b4c211351f4d61b2c6209e3fd2e"
+  },
+  "requirements_lock_sha256": "a349ffc77696ce22c6e9da1b75df5df489413bb1146f5bb2043d9a4a34f27c43",
+  "tracking-audit.json": "20ab00f904baf4bd392c2f155b727d2cd9f7571c397fcea0fd4a7853aa7baaf6",
+  "tracking_templates_sha256": {
+    "anchor-0.png": "151448a91fdc26af7f3a0d8b6c7f16ee116ec35860c472e597d49b58888263d0",
+    "anchor-1.png": "f0c61eb13a80ac6f8f4bb972ae93c88ad658d0854d92a6632f7a84e1ce6843e8",
+    "anchor-2.png": "5828319b0131a8e262a6f5d67c5f2482943849e30d1f33450336dbf6fc48e018"
+  },
+  "source_video_sha256": "0b7d498152182f103d2478403f42220f15edee3818bb2726f1fd4e46b9b0d7d6"
+}

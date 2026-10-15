@@ -1,0 +1,282 @@
+{
+  "counts": [
+    {
+      "date": "2026-10-03",
+      "cat": "黄色短毛猫",
+      "feeding_bouts": 5,
+      "night_identity_inferred_bouts": 0,
+      "other_bowl_bouts": 5,
+      "fountain_bouts": 2,
+      "brief_food_contacts": 2
+    },
+    {
+      "date": "2026-10-03",
+      "cat": "灰色长毛猫",
+      "feeding_bouts": 12,
+      "night_identity_inferred_bouts": 4,
+      "other_bowl_bouts": 6,
+      "fountain_bouts": 0,
+      "brief_food_contacts": 0
+    },
+    {
+      "date": "2026-10-03",
+      "cat": "身份不确定",
+      "feeding_bouts": 0,
+      "night_identity_inferred_bouts": 0,
+      "other_bowl_bouts": 0,
+      "fountain_bouts": 0,
+      "brief_food_contacts": 0
+    }
+  ],
+  "coverage": {
+    "samples": 8941,
+    "valid_clocks": 8941,
+    "first": "2026-10-03T08:10:49+08:00",
+    "last": "2026-10-03T23:21:43+08:00",
+    "transitions": {
+      "advance": 3876,
+      "repeat": 5036,
+      "jump": 28
+    },
+    "step_histogram": {
+      "0.0": 5036,
+      "6.0": 1,
+      "11.0": 11,
+      "12.0": 1791,
+      "13.0": 725,
+      "14.0": 6,
+      "15.0": 105,
+      "16.0": 950,
+      "17.0": 158,
+      "18.0": 1,
+      "19.0": 2,
+      "22.0": 2,
+      "23.0": 1,
+      "24.0": 61,
+      "25.0": 62,
+      "31.0": 7,
+      "32.0": 17,
+      "33.0": 1,
+      "37.0": 1,
+      "48.0": 1,
+      "49.0": 1
+    },
+    "anomalies": [
+      {
+        "first_id": 4535,
+        "last_id": 4536,
+        "kind": "jump",
+        "camera_seconds": 37.0
+      },
+      {
+        "first_id": 5202,
+        "last_id": 5203,
+        "kind": "jump",
+        "camera_seconds": 49.0
+      },
+      {
+        "first_id": 5357,
+        "last_id": 5358,
+        "kind": "jump",
+        "camera_seconds": 48.0
+      },
+      {
+        "first_id": 5448,
+        "last_id": 5449,
+        "kind": "jump",
+        "camera_seconds": 32.0
+      },
+      {
+        "first_id": 5558,
+        "last_id": 5559,
+        "kind": "jump",
+        "camera_seconds": 31.0
+      },
+      {
+        "first_id": 5575,
+        "last_id": 5576,
+        "kind": "jump",
+        "camera_seconds": 32.0
+      },
+      {
+        "first_id": 5753,
+        "last_id": 5754,
+        "kind": "jump",
+        "camera_seconds": 32.0
+      },
+      {
+        "first_id": 5758,
+        "last_id": 5759,
+        "kind": "jump",
+        "camera_seconds": 32.0
+      },
+      {
+        "first_id": 5775,
+        "last_id": 5776,
+        "kind": "jump",
+        "camera_seconds": 31.0
+      },
+      {
+        "first_id": 5935,
+        "last_id": 5936,
+        "kind": "jump",
+        "camera_seconds": 31.0
+      },
+      {
+        "first_id": 6143,
+        "last_id": 6144,
+        "kind": "jump",
+        "camera_seconds": 32.0
+      },
+      {
+        "first_id": 6175,
+        "last_id": 6176,
+        "kind": "jump",
+        "camera_seconds": 31.0
+      },
+      {
+        "first_id": 6245,
+        "last_id": 6246,
+        "kind": "jump",
+        "camera_seconds": 31.0
+      },
+      {
+        "first_id": 6619,
+        "last_id": 6620,
+        "kind": "jump",
+        "camera_seconds": 32.0
+      },
+      {
+        "first_id": 6895,
+        "last_id": 6896,
+        "kind": "jump",
+        "camera_seconds": 32.0
+      },
+      {
+        "first_id": 7041,
+        "last_id": 7042,
+        "kind": "jump",
+        "camera_seconds": 32.0
+      },
+      {
+        "first_id": 7244,
+        "last_id": 7245,
+        "kind": "jump",
+        "camera_seconds": 31.0
+      },
+      {
+        "first_id": 7437,
+        "last_id": 7438,
+        "kind": "jump",
+        "camera_seconds": 32.0
+      },
+      {
+        "first_id": 7490,
+        "last_id": 7491,
+        "kind": "jump",
+        "camera_seconds": 33.0
+      },
+      {
+        "first_id": 7575,
+        "last_id": 7576,
+        "kind": "jump",
+        "camera_seconds": 32.0
+      },
+      {
+        "first_id": 8096,
+        "last_id": 8097,
+        "kind": "jump",
+        "camera_seconds": 32.0
+      },
+      {
+        "first_id": 8136,
+        "last_id": 8137,
+        "kind": "jump",
+        "camera_seconds": 32.0
+      },
+      {
+        "first_id": 8599,
+        "last_id": 8600,
+        "kind": "jump",
+        "camera_seconds": 32.0
+      },
+      {
+        "first_id": 8747,
+        "last_id": 8748,
+        "kind": "jump",
+        "camera_seconds": 31.0
+      },
+      {
+        "first_id": 8772,
+        "last_id": 8773,
+        "kind": "jump",
+        "camera_seconds": 32.0
+      },
+      {
+        "first_id": 8850,
+        "last_id": 8851,
+        "kind": "jump",
+        "camera_seconds": 32.0
+      },
+      {
+        "first_id": 8861,
+        "last_id": 8862,
+        "kind": "jump",
+        "camera_seconds": 32.0
+      },
+      {
+        "first_id": 8878,
+        "last_id": 8879,
+        "kind": "jump",
+        "camera_seconds": 32.0
+      }
+    ]
+  },
+  "combined_clock_audit": {
+    "unique_camera_instants": 4010,
+    "first": 1790986249.0,
+    "last": 1791040903.0,
+    "camera_span_seconds": 54654.0,
+    "largest_step_seconds": 25.0,
+    "step_histogram": {
+      "6.0": 1,
+      "11.0": 13,
+      "12.0": 1899,
+      "13.0": 770,
+      "14.0": 6,
+      "15.0": 114,
+      "16.0": 988,
+      "17.0": 161,
+      "18.0": 1,
+      "19.0": 2,
+      "22.0": 2,
+      "23.0": 1,
+      "24.0": 30,
+      "25.0": 21
+    },
+    "decoded_source_frames": 268113,
+    "supplementary_instants": 105
+  },
+  "merge_gap_sensitivity": {
+    "30": {
+      "orange_shorthair": 5,
+      "gray_longhair": 12
+    },
+    "60": {
+      "orange_shorthair": 5,
+      "gray_longhair": 12
+    },
+    "120": {
+      "orange_shorthair": 5,
+      "gray_longhair": 12
+    }
+  },
+  "method": {
+    "screen_sample_fps": 2,
+    "merge_gap_camera_seconds": 60,
+    "min_span_camera_seconds": 10,
+    "main_food_only": true,
+    "reviewed_by": "Codex visual examination",
+    "not_full_day": true
+  }
+}
